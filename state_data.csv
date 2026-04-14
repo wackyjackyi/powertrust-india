@@ -1,0 +1,4 @@
+state,installed_solar_gw,total_re_mw,avg_tariff_rs_kwh,capex_lakh_per_mw,rpo_total_pct,solar_rpo_pct,approval_months,water_stress,grid_congestion,policy_stability,land_cost_index
+Rajasthan,28.5,39995.99,3.21,380,33.01,28.17,14,Severe,High,High,2
+Gujarat,20.1,38029.77,3.45,375,33.01,33.01,10,High,Medium,Very High,3
+Karnataka,9.9,21810.51,5.10,390,33.10,24.0,12,Moderate,Medium,Medium,4

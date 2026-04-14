@@ -1,0 +1,803 @@
+{
+  "generated": "2026-04-13",
+  "total": 41,
+  "ok": 23,
+  "failed": 18,
+  "skipped": 0,
+  "total_chars": 6731996,
+  "sources": [
+    {
+      "source_id": "mnre_benchmark_cost_2024",
+      "source_name": "MNRE Benchmark Capital Cost 2024-25",
+      "url": "https://mnre.gov.in/img/documents/uploads/file_f-1714034284700.pdf",
+      "dimension": "cost_economics",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Annual benchmark CAPEX for solar PV — key for cost layer [HTTP 404]",
+      "text_file": ""
+    },
+    {
+      "source_id": "cerc_tariff_order_2024",
+      "source_name": "CERC Tariff Determination Order 2024",
+      "url": "https://cercind.gov.in/2024/ORDER/sm.pdf",
+      "dimension": "cost_economics",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 908032,
+      "date_accessed": "2026-04-13",
+      "notes": "National tariff benchmarks; compare with SECI auction results [manually loaded from .txt]",
+      "text_file": "data\\raw\\cerc_tariff_order_2024.txt"
+    },
+    {
+      "source_id": "seci_auction_results",
+      "source_name": "SECI Auction Results — JMK Research summary",
+      "url": "https://jmkresearch.com/indian-solar-market-update-fy2025/",
+      "dimension": "cost_economics",
+      "state_scope": "national",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "JMK Research summary of SECI auction tariffs — more scraper-friendly than SECI directly [HTTP 404]",
+      "text_file": ""
+    },
+    {
+      "source_id": "irena_india_costs",
+      "source_name": "IRENA India renewable cost data — Our World in Data",
+      "url": "https://ourworldindata.org/grapher/levelized-cost-of-energy",
+      "dimension": "cost_economics",
+      "state_scope": "national",
+      "format": "html",
+      "status": "ok",
+      "char_count": 11705,
+      "date_accessed": "2026-04-13",
+      "notes": "LCOE benchmarks in accessible format — cross-technology comparison [manually loaded from .txt]",
+      "text_file": "data\\raw\\irena_india_costs.txt"
+    },
+    {
+      "source_id": "rerc_tariff_rajasthan",
+      "source_name": "RERC Tariff Order Rajasthan 2023-24",
+      "url": "https://www.rerc.rajasthan.gov.in/rerc-user-files/tariff-order/TO_FY2023-24_DISCOMS.pdf",
+      "dimension": "cost_economics",
+      "state_scope": "rajasthan",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 593254,
+      "date_accessed": "2026-04-13",
+      "notes": "State-level retail tariff — needed for grid charge calculation [manually loaded from .txt]",
+      "text_file": "data\\raw\\rerc_tariff_rajasthan.txt"
+    },
+    {
+      "source_id": "gerc_tariff_gujarat",
+      "source_name": "GERC Tariff Order Gujarat 2023-24",
+      "url": "https://www.gercin.org/wp-content/uploads/2023/05/TO-2023-24-English.pdf",
+      "dimension": "cost_economics",
+      "state_scope": "gujarat",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 411807,
+      "date_accessed": "2026-04-13",
+      "notes": "Gujarat state tariff for cost comparison with Rajasthan [manually loaded from .txt]",
+      "text_file": "data\\raw\\gerc_tariff_gujarat.txt"
+    },
+    {
+      "source_id": "cea_national_electricity_plan",
+      "source_name": "CEA National Electricity Plan 2022-32",
+      "url": "https://cea.nic.in/wp-content/uploads/irp/2023/05/NEP_2022_32_FINAL.pdf",
+      "dimension": "grid_access",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 850271,
+      "date_accessed": "2026-04-13",
+      "notes": "Transmission expansion plans; look for Rajasthan/Gujarat chapters [manually loaded from .txt]",
+      "text_file": "data\\raw\\cea_national_electricity_plan.txt"
+    },
+    {
+      "source_id": "posoco_congestion_report",
+      "source_name": "India grid data — Ember Energy India",
+      "url": "https://ember-energy.org/countries/india/",
+      "dimension": "grid_access",
+      "state_scope": "national",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Ember India page — grid RE capacity, curtailment and congestion trends [HTTP 403]",
+      "text_file": ""
+    },
+    {
+      "source_id": "open_access_registry",
+      "source_name": "Open Access Registry India",
+      "url": "https://openaccessregistry.com/",
+      "dimension": "grid_access",
+      "state_scope": "all_three",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "State-wise open access approvals; may need manual download [ConnectionError: HTTPSConnectionPool(host='openaccessregistry.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='openaccessregistry.com', port=443): Failed to resolve 'openaccessregistry.com' ([Errno 11001] getaddrinfo failed)\"))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "rerc_open_access_rajasthan",
+      "source_name": "RERC Open Access Regulations",
+      "url": "https://www.rerc.rajasthan.gov.in/rerc-user-files/regulations/Open_Access_Regulations_2019.pdf",
+      "dimension": "grid_access",
+      "state_scope": "rajasthan",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 24929,
+      "date_accessed": "2026-04-13",
+      "notes": "Rajasthan open access rules — interconnection wait time info [manually loaded from .txt]",
+      "text_file": "data\\raw\\rerc_open_access_rajasthan.txt"
+    },
+    {
+      "source_id": "gerc_open_access_gujarat",
+      "source_name": "GERC Open Access Regulations",
+      "url": "https://www.gercin.org/regulations/",
+      "dimension": "grid_access",
+      "state_scope": "gujarat",
+      "format": "html",
+      "status": "ok",
+      "char_count": 208,
+      "date_accessed": "2026-04-13",
+      "notes": "Scrape Gujarat open access regulation documents [manually loaded from .txt]",
+      "text_file": "data\\raw\\gerc_open_access_gujarat.txt"
+    },
+    {
+      "source_id": "mnre_pm_surya_ghar",
+      "source_name": "PM Surya Ghar Muft Bijli Yojana Guidelines",
+      "url": "https://mnre.gov.in/img/documents/uploads/file_f-1707121512931.pdf",
+      "dimension": "subsidies_policy",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 76991,
+      "date_accessed": "2026-04-13",
+      "notes": "Key residential rooftop solar subsidy scheme — launched Feb 2024 [manually loaded from .txt]",
+      "text_file": "data\\raw\\mnre_pm_surya_ghar.txt"
+    },
+    {
+      "source_id": "mnre_rooftop_phase2",
+      "source_name": "MNRE Rooftop Solar Programme Phase II",
+      "url": "https://mnre.gov.in/solar/rooftop",
+      "dimension": "subsidies_policy",
+      "state_scope": "national",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Programme overview + state-wise targets [HTTP 404]",
+      "text_file": ""
+    },
+    {
+      "source_id": "cea_net_metering_framework",
+      "source_name": "CEA Net Metering Framework",
+      "url": "https://cea.nic.in/wp-content/uploads/notification/2022/06/CEA_Regulation_Connectivity.pdf",
+      "dimension": "subsidies_policy",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 11274,
+      "date_accessed": "2026-04-13",
+      "notes": "Model net metering regulations — basis for state-level rules [manually loaded from .txt]",
+      "text_file": "data\\raw\\cea_net_metering_framework.txt"
+    },
+    {
+      "source_id": "datagov_subsidy_statewise",
+      "source_name": "data.gov.in State-wise Rooftop Solar Incentives",
+      "url": "https://www.data.gov.in/catalog/state-wise-incentive-amount-released-power-distribution-companies-discoms-under-phase-ii",
+      "dimension": "subsidies_policy",
+      "state_scope": "all_three",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Open government dataset — state-wise subsidy disbursements [Extracted <100 chars — page may require JS]",
+      "text_file": ""
+    },
+    {
+      "source_id": "niti_aayog_energy_policy",
+      "source_name": "NITI Aayog India Energy Security Scenarios",
+      "url": "https://www.niti.gov.in/sites/default/files/2023-01/National_Energy_Policy_NITI.pdf",
+      "dimension": "subsidies_policy",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 850271,
+      "date_accessed": "2026-04-13",
+      "notes": "Overarching subsidy and incentive policy framework [manually loaded from .txt]",
+      "text_file": "data\\raw\\niti_aayog_energy_policy.txt"
+    },
+    {
+      "source_id": "cerc_rpo_regulations",
+      "source_name": "CERC RPO Regulations 2022",
+      "url": "https://cercind.gov.in/2022/regulation/noti290922.pdf",
+      "dimension": "utility_standards",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 26020,
+      "date_accessed": "2026-04-13",
+      "notes": "Renewable Purchase Obligation targets — solar-specific sub-targets [manually loaded from .txt]",
+      "text_file": "data\\raw\\cerc_rpo_regulations.txt"
+    },
+    {
+      "source_id": "ministry_power_nep",
+      "source_name": "Ministry of Power National Electricity Policy",
+      "url": "https://powermin.gov.in/sites/default/files/uploads/National_Electricity_Policy_2021.pdf",
+      "dimension": "utility_standards",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Utility procurement obligations and RE integration mandates [EmptyFileError: Cannot read an empty file]",
+      "text_file": ""
+    },
+    {
+      "source_id": "rerc_rpo_rajasthan",
+      "source_name": "RERC RPO Targets Rajasthan 2023-24",
+      "url": "https://www.rerc.rajasthan.gov.in/rerc-user-files/orders/RPO_Order_2023.pdf",
+      "dimension": "utility_standards",
+      "state_scope": "rajasthan",
+      "format": "pdf",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "State-specific RPO compliance orders [ConnectionError: HTTPSConnectionPool(host='www.rerc.rajasthan.gov.in', port=443): Max retries exceeded with url: /rerc-user-files/orders/RPO_Order_2023.pdf (Caused by NameResolutionError(\"HTTPSConnection(host='www.rerc.rajasthan.gov.in', port=443): Failed to resolve 'www.rerc.rajasthan.gov.in' ([Errno 11001] getaddrinfo failed)\"))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "gerc_rpo_gujarat",
+      "source_name": "GERC RPO Targets Gujarat",
+      "url": "https://www.gercin.org/orders-judgments/",
+      "dimension": "utility_standards",
+      "state_scope": "gujarat",
+      "format": "html",
+      "status": "ok",
+      "char_count": 208,
+      "date_accessed": "2026-04-13",
+      "notes": "Scrape for latest RPO compliance orders [manually loaded from .txt]",
+      "text_file": "data\\raw\\gerc_rpo_gujarat.txt"
+    },
+    {
+      "source_id": "moef_eia_solar",
+      "source_name": "MoEFCC EIA Notifications — Solar Projects",
+      "url": "https://moef.gov.in/moef/division/environment-impact-assessment-division/eia/",
+      "dimension": "approval_signals",
+      "state_scope": "national",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Public hearing transcripts — unstructured but rich for NLP [HTTP 404]",
+      "text_file": ""
+    },
+    {
+      "source_id": "pib_solar_approvals",
+      "source_name": "PIB Press Releases — Solar Projects",
+      "url": "https://pib.gov.in/allRel.aspx",
+      "dimension": "approval_signals",
+      "state_scope": "national",
+      "format": "html",
+      "status": "ok",
+      "char_count": 305,
+      "date_accessed": "2026-04-13",
+      "notes": "Search 'solar' — project announcements, approval notices [manually loaded from .txt]",
+      "text_file": "data\\raw\\pib_solar_approvals.txt"
+    },
+    {
+      "source_id": "prs_solar_policy",
+      "source_name": "PRS Legislative Research — Solar/RE Bills",
+      "url": "https://prsindia.org/policy/energy",
+      "dimension": "approval_signals",
+      "state_scope": "national",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Policy debate summaries, stakeholder objection themes [HTTP 404]",
+      "text_file": ""
+    },
+    {
+      "source_id": "ngt_solar_cases",
+      "source_name": "NGT Case Filings — Solar Land Disputes",
+      "url": "https://greentribunal.gov.in/",
+      "dimension": "approval_signals",
+      "state_scope": "national",
+      "format": "html",
+      "status": "ok",
+      "char_count": 6180,
+      "date_accessed": "2026-04-13",
+      "notes": "Land-use objections, environmental challenge patterns [manually loaded from .txt]",
+      "text_file": "data\\raw\\ngt_solar_cases.txt"
+    },
+    {
+      "source_id": "kerc_tariff_karnataka",
+      "source_name": "KERC Tariff Order Karnataka 2023-24",
+      "url": "https://kerc.karnataka.gov.in/uploads/tariff_orders/1712207605.pdf",
+      "dimension": "cost_economics",
+      "state_scope": "karnataka",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 910751,
+      "date_accessed": "2026-04-13",
+      "notes": "Karnataka retail tariff — compare with Rajasthan & Gujarat for cost layer [manually loaded from .txt]",
+      "text_file": "data\\raw\\kerc_tariff_karnataka.txt"
+    },
+    {
+      "source_id": "kerc_solar_procurement",
+      "source_name": "KERC Solar Procurement Orders",
+      "url": "https://kerc.karnataka.gov.in/page/orders+and+judgements/tariff+orders/index.html",
+      "dimension": "cost_economics",
+      "state_scope": "karnataka",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Scrape for solar PPA tariff orders — Karnataka discovered tariffs [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /page/orders+and+judgements/tariff+orders/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f62d40>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=30)'))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "kerc_open_access_karnataka",
+      "source_name": "KERC Open Access Regulations Karnataka",
+      "url": "https://kerc.karnataka.gov.in/page/regulations/index.html",
+      "dimension": "grid_access",
+      "state_scope": "karnataka",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Open access + grid interconnection rules — Pavagada Solar Park context [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /page/regulations/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f627a0>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=30)'))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "bescom_grid_karnataka",
+      "source_name": "BESCOM Annual Report / Grid Data",
+      "url": "https://bescom.karnataka.gov.in/page/Report/Annual+Reports/en",
+      "dimension": "grid_access",
+      "state_scope": "karnataka",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "BESCOM (Bangalore utility) — grid congestion and interconnection wait data [ConnectTimeout: HTTPSConnectionPool(host='bescom.karnataka.gov.in', port=443): Max retries exceeded with url: /page/Report/Annual+Reports/en (Caused by ConnectTimeoutError(<HTTPSConnection(host='bescom.karnataka.gov.in', port=443) at 0x25e49f61cc0>, 'Connection to bescom.karnataka.gov.in timed out. (connect timeout=30)'))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "kerc_net_metering_karnataka",
+      "source_name": "KERC Net Metering Regulations Karnataka",
+      "url": "https://kerc.karnataka.gov.in/uploads/regulations/1608536079.pdf",
+      "dimension": "subsidies_policy",
+      "state_scope": "karnataka",
+      "format": "pdf",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Karnataka net metering rules — compare NEM policies across 3 states [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /uploads/regulations/1608536079.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f61450>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=45)'))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "kredl_karnataka",
+      "source_name": "KREDL Karnataka RE Policy",
+      "url": "https://kredl.karnataka.gov.in/page/New+Energy+Policy/index.html",
+      "dimension": "subsidies_policy",
+      "state_scope": "karnataka",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Karnataka Renewable Energy Development Ltd — state subsidy schemes [ConnectTimeout: HTTPSConnectionPool(host='kredl.karnataka.gov.in', port=443): Max retries exceeded with url: /page/New+Energy+Policy/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kredl.karnataka.gov.in', port=443) at 0x25e49f62110>, 'Connection to kredl.karnataka.gov.in timed out. (connect timeout=30)'))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "kerc_rpo_karnataka",
+      "source_name": "KERC RPO Targets Karnataka",
+      "url": "https://kerc.karnataka.gov.in/page/orders+and+judgements/rpo+orders/index.html",
+      "dimension": "utility_standards",
+      "state_scope": "karnataka",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "State RPO compliance orders — Karnataka has one of highest RE shares (69%) [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /page/orders+and+judgements/rpo+orders/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f63580>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=30)'))]",
+      "text_file": ""
+    },
+    {
+      "source_id": "pavagada_park_data",
+      "source_name": "Pavagada Solar Park — project records",
+      "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=177234",
+      "dimension": "approval_signals",
+      "state_scope": "karnataka",
+      "format": "html",
+      "status": "ok",
+      "char_count": 915,
+      "date_accessed": "2026-04-13",
+      "notes": "PIB release on Pavagada — land acquisition, farmer lease model detail [manually loaded from .txt]",
+      "text_file": "data\\raw\\pavagada_park_data.txt"
+    },
+    {
+      "source_id": "karnataka_solar_capacity",
+      "source_name": "Karnataka state solar capacity stats",
+      "url": "https://mnre.gov.in/img/documents/uploads/file_f-1712126209688.pdf",
+      "dimension": "unknown_unknowns",
+      "state_scope": "karnataka",
+      "format": "pdf",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "MNRE state-wise capacity — Karnataka ~9.9 GW solar, wind+solar mix insight [HTTP 404]",
+      "text_file": ""
+    },
+    {
+      "source_id": "prayas_re_portal",
+      "source_name": "Prayas Energy Group RE Data Portal",
+      "url": "https://energy.prayaspune.org/renewable-energy-data-portal",
+      "dimension": "unknown_unknowns",
+      "state_scope": "all_three",
+      "format": "html",
+      "status": "ok",
+      "char_count": 3805,
+      "date_accessed": "2026-04-13",
+      "notes": "Pre-aggregated state RE stats — good cross-check source [manually loaded from .txt]",
+      "text_file": "data\\raw\\prayas_re_portal.txt"
+    },
+    {
+      "source_id": "jmk_solar_report_2025",
+      "source_name": "JMK Research FY2025 Solar Report",
+      "url": "https://jmkresearch.com/4-2-gw-wind-and-23-8-gw-solar-installed-in-india-in-fy2025/",
+      "dimension": "unknown_unknowns",
+      "state_scope": "all_three",
+      "format": "html",
+      "status": "ok",
+      "char_count": 7996,
+      "date_accessed": "2026-04-13",
+      "notes": "State-wise solar additions FY2025 — good for unknown bottlenecks [manually loaded from .txt]",
+      "text_file": "data\\raw\\jmk_solar_report_2025.txt"
+    },
+    {
+      "source_id": "cea_installed_capacity",
+      "source_name": "CEA All India Installed Capacity (monthly)",
+      "url": "https://cea.nic.in/installed-capacity-report/",
+      "dimension": "unknown_unknowns",
+      "state_scope": "all_three",
+      "format": "html",
+      "status": "ok",
+      "char_count": 21104,
+      "date_accessed": "2026-04-13",
+      "notes": "Latest state-wise capacity data — anchor for dashboard charts [manually loaded from .txt]",
+      "text_file": "data\\raw\\cea_installed_capacity.txt"
+    },
+    {
+      "source_id": "datagov_solar_capacity",
+      "source_name": "data.gov.in State-wise Solar Capacity",
+      "url": "https://www.data.gov.in/catalog/state-wise-solar-power-capacity-installed-india",
+      "dimension": "unknown_unknowns",
+      "state_scope": "all_three",
+      "format": "html",
+      "status": "failed",
+      "char_count": 0,
+      "date_accessed": "2026-04-13",
+      "notes": "Machine-readable capacity data — use for dashboard charts [Extracted <100 chars — page may require JS]",
+      "text_file": ""
+    },
+    {
+      "source_id": "renewable_power_generation_full",
+      "source_name": "IRENA Renewable Power Generation Costs 2023",
+      "url": "https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023",
+      "dimension": "cost_economics",
+      "state_scope": "national",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 23092,
+      "date_accessed": "2026-04-13",
+      "notes": "Global LCOE benchmarks — solar PV USD 758/kW, USD 0.044/kWh in 2023. Key for cross-technology comparison. [manually loaded from .txt]",
+      "text_file": "data\\raw\\renewable_power_generation_full.txt"
+    },
+    {
+      "source_id": "cea_installed_capacity_full",
+      "source_name": "CEA All India Installed Capacity — full report",
+      "url": "https://cea.nic.in/installed-capacity-report/",
+      "dimension": "unknown_unknowns",
+      "state_scope": "all_three",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 43798,
+      "date_accessed": "2026-04-13",
+      "notes": "Full state-wise installed capacity data from CEA — anchor for dashboard charts [manually loaded from .txt]",
+      "text_file": "data\\raw\\cea_installed_capacity_full.txt"
+    },
+    {
+      "source_id": "kerc_tariff_karnataka_full",
+      "source_name": "KERC Combined Tariff Order Karnataka 2025 — full text",
+      "url": "https://data.opencity.in/dataset/kerc-combined-tariff-order-2025",
+      "dimension": "cost_economics",
+      "state_scope": "karnataka",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 1117050,
+      "date_accessed": "2026-04-13",
+      "notes": "Full extracted text — Karnataka tariff, RPO, wheeling charges across all ESCOMs [manually loaded from .txt]",
+      "text_file": "data\\raw\\kerc_tariff_karnataka_full.txt"
+    },
+    {
+      "source_id": "rerc_tariff_rajasthan_full",
+      "source_name": "RERC Discoms ARR and Tariff FY2025-26 — full text",
+      "url": "https://rerc.rajasthan.gov.in/rerc-user-files/tariff-orders",
+      "dimension": "cost_economics",
+      "state_scope": "rajasthan",
+      "format": "pdf",
+      "status": "ok",
+      "char_count": 832030,
+      "date_accessed": "2026-04-13",
+      "notes": "Full extracted text — Rajasthan tariff order, RPO, solar procurement data [manually loaded from .txt]",
+      "text_file": "data\\raw\\rerc_tariff_rajasthan_full.txt"
+    }
+  ],
+  "data_audit": {
+    "found": [
+      {
+        "source": "cerc_tariff_order_2024",
+        "dimension": "cost_economics",
+        "chars": 908032,
+        "url": "https://cercind.gov.in/2024/ORDER/sm.pdf"
+      },
+      {
+        "source": "irena_india_costs",
+        "dimension": "cost_economics",
+        "chars": 11705,
+        "url": "https://ourworldindata.org/grapher/levelized-cost-of-energy"
+      },
+      {
+        "source": "rerc_tariff_rajasthan",
+        "dimension": "cost_economics",
+        "chars": 593254,
+        "url": "https://www.rerc.rajasthan.gov.in/rerc-user-files/tariff-order/TO_FY2023-24_DISCOMS.pdf"
+      },
+      {
+        "source": "gerc_tariff_gujarat",
+        "dimension": "cost_economics",
+        "chars": 411807,
+        "url": "https://www.gercin.org/wp-content/uploads/2023/05/TO-2023-24-English.pdf"
+      },
+      {
+        "source": "cea_national_electricity_plan",
+        "dimension": "grid_access",
+        "chars": 850271,
+        "url": "https://cea.nic.in/wp-content/uploads/irp/2023/05/NEP_2022_32_FINAL.pdf"
+      },
+      {
+        "source": "rerc_open_access_rajasthan",
+        "dimension": "grid_access",
+        "chars": 24929,
+        "url": "https://www.rerc.rajasthan.gov.in/rerc-user-files/regulations/Open_Access_Regulations_2019.pdf"
+      },
+      {
+        "source": "gerc_open_access_gujarat",
+        "dimension": "grid_access",
+        "chars": 208,
+        "url": "https://www.gercin.org/regulations/"
+      },
+      {
+        "source": "mnre_pm_surya_ghar",
+        "dimension": "subsidies_policy",
+        "chars": 76991,
+        "url": "https://mnre.gov.in/img/documents/uploads/file_f-1707121512931.pdf"
+      },
+      {
+        "source": "cea_net_metering_framework",
+        "dimension": "subsidies_policy",
+        "chars": 11274,
+        "url": "https://cea.nic.in/wp-content/uploads/notification/2022/06/CEA_Regulation_Connectivity.pdf"
+      },
+      {
+        "source": "niti_aayog_energy_policy",
+        "dimension": "subsidies_policy",
+        "chars": 850271,
+        "url": "https://www.niti.gov.in/sites/default/files/2023-01/National_Energy_Policy_NITI.pdf"
+      },
+      {
+        "source": "cerc_rpo_regulations",
+        "dimension": "utility_standards",
+        "chars": 26020,
+        "url": "https://cercind.gov.in/2022/regulation/noti290922.pdf"
+      },
+      {
+        "source": "gerc_rpo_gujarat",
+        "dimension": "utility_standards",
+        "chars": 208,
+        "url": "https://www.gercin.org/orders-judgments/"
+      },
+      {
+        "source": "pib_solar_approvals",
+        "dimension": "approval_signals",
+        "chars": 305,
+        "url": "https://pib.gov.in/allRel.aspx"
+      },
+      {
+        "source": "ngt_solar_cases",
+        "dimension": "approval_signals",
+        "chars": 6180,
+        "url": "https://greentribunal.gov.in/"
+      },
+      {
+        "source": "kerc_tariff_karnataka",
+        "dimension": "cost_economics",
+        "chars": 910751,
+        "url": "https://kerc.karnataka.gov.in/uploads/tariff_orders/1712207605.pdf"
+      },
+      {
+        "source": "pavagada_park_data",
+        "dimension": "approval_signals",
+        "chars": 915,
+        "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=177234"
+      },
+      {
+        "source": "prayas_re_portal",
+        "dimension": "unknown_unknowns",
+        "chars": 3805,
+        "url": "https://energy.prayaspune.org/renewable-energy-data-portal"
+      },
+      {
+        "source": "jmk_solar_report_2025",
+        "dimension": "unknown_unknowns",
+        "chars": 7996,
+        "url": "https://jmkresearch.com/4-2-gw-wind-and-23-8-gw-solar-installed-in-india-in-fy2025/"
+      },
+      {
+        "source": "cea_installed_capacity",
+        "dimension": "unknown_unknowns",
+        "chars": 21104,
+        "url": "https://cea.nic.in/installed-capacity-report/"
+      },
+      {
+        "source": "renewable_power_generation_full",
+        "dimension": "cost_economics",
+        "chars": 23092,
+        "url": "https://www.irena.org/Publications/2024/Sep/Renewable-Power-Generation-Costs-in-2023"
+      },
+      {
+        "source": "cea_installed_capacity_full",
+        "dimension": "unknown_unknowns",
+        "chars": 43798,
+        "url": "https://cea.nic.in/installed-capacity-report/"
+      },
+      {
+        "source": "kerc_tariff_karnataka_full",
+        "dimension": "cost_economics",
+        "chars": 1117050,
+        "url": "https://data.opencity.in/dataset/kerc-combined-tariff-order-2025"
+      },
+      {
+        "source": "rerc_tariff_rajasthan_full",
+        "dimension": "cost_economics",
+        "chars": 832030,
+        "url": "https://rerc.rajasthan.gov.in/rerc-user-files/tariff-orders"
+      }
+    ],
+    "missing": [
+      {
+        "source": "mnre_benchmark_cost_2024",
+        "dimension": "cost_economics",
+        "url": "https://mnre.gov.in/img/documents/uploads/file_f-1714034284700.pdf",
+        "reason": "Annual benchmark CAPEX for solar PV — key for cost layer [HTTP 404]"
+      },
+      {
+        "source": "seci_auction_results",
+        "dimension": "cost_economics",
+        "url": "https://jmkresearch.com/indian-solar-market-update-fy2025/",
+        "reason": "JMK Research summary of SECI auction tariffs — more scraper-friendly than SECI directly [HTTP 404]"
+      },
+      {
+        "source": "posoco_congestion_report",
+        "dimension": "grid_access",
+        "url": "https://ember-energy.org/countries/india/",
+        "reason": "Ember India page — grid RE capacity, curtailment and congestion trends [HTTP 403]"
+      },
+      {
+        "source": "open_access_registry",
+        "dimension": "grid_access",
+        "url": "https://openaccessregistry.com/",
+        "reason": "State-wise open access approvals; may need manual download [ConnectionError: HTTPSConnectionPool(host='openaccessregistry.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='openaccessregistry.com', port=443): Failed to resolve 'openaccessregistry.com' ([Errno 11001] getaddrinfo failed)\"))]"
+      },
+      {
+        "source": "mnre_rooftop_phase2",
+        "dimension": "subsidies_policy",
+        "url": "https://mnre.gov.in/solar/rooftop",
+        "reason": "Programme overview + state-wise targets [HTTP 404]"
+      },
+      {
+        "source": "datagov_subsidy_statewise",
+        "dimension": "subsidies_policy",
+        "url": "https://www.data.gov.in/catalog/state-wise-incentive-amount-released-power-distribution-companies-discoms-under-phase-ii",
+        "reason": "Open government dataset — state-wise subsidy disbursements [Extracted <100 chars — page may require JS]"
+      },
+      {
+        "source": "ministry_power_nep",
+        "dimension": "utility_standards",
+        "url": "https://powermin.gov.in/sites/default/files/uploads/National_Electricity_Policy_2021.pdf",
+        "reason": "Utility procurement obligations and RE integration mandates [EmptyFileError: Cannot read an empty file]"
+      },
+      {
+        "source": "rerc_rpo_rajasthan",
+        "dimension": "utility_standards",
+        "url": "https://www.rerc.rajasthan.gov.in/rerc-user-files/orders/RPO_Order_2023.pdf",
+        "reason": "State-specific RPO compliance orders [ConnectionError: HTTPSConnectionPool(host='www.rerc.rajasthan.gov.in', port=443): Max retries exceeded with url: /rerc-user-files/orders/RPO_Order_2023.pdf (Caused by NameResolutionError(\"HTTPSConnection(host='www.rerc.rajasthan.gov.in', port=443): Failed to resolve 'www.rerc.rajasthan.gov.in' ([Errno 11001] getaddrinfo failed)\"))]"
+      },
+      {
+        "source": "moef_eia_solar",
+        "dimension": "approval_signals",
+        "url": "https://moef.gov.in/moef/division/environment-impact-assessment-division/eia/",
+        "reason": "Public hearing transcripts — unstructured but rich for NLP [HTTP 404]"
+      },
+      {
+        "source": "prs_solar_policy",
+        "dimension": "approval_signals",
+        "url": "https://prsindia.org/policy/energy",
+        "reason": "Policy debate summaries, stakeholder objection themes [HTTP 404]"
+      },
+      {
+        "source": "kerc_solar_procurement",
+        "dimension": "cost_economics",
+        "url": "https://kerc.karnataka.gov.in/page/orders+and+judgements/tariff+orders/index.html",
+        "reason": "Scrape for solar PPA tariff orders — Karnataka discovered tariffs [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /page/orders+and+judgements/tariff+orders/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f62d40>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=30)'))]"
+      },
+      {
+        "source": "kerc_open_access_karnataka",
+        "dimension": "grid_access",
+        "url": "https://kerc.karnataka.gov.in/page/regulations/index.html",
+        "reason": "Open access + grid interconnection rules — Pavagada Solar Park context [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /page/regulations/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f627a0>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=30)'))]"
+      },
+      {
+        "source": "bescom_grid_karnataka",
+        "dimension": "grid_access",
+        "url": "https://bescom.karnataka.gov.in/page/Report/Annual+Reports/en",
+        "reason": "BESCOM (Bangalore utility) — grid congestion and interconnection wait data [ConnectTimeout: HTTPSConnectionPool(host='bescom.karnataka.gov.in', port=443): Max retries exceeded with url: /page/Report/Annual+Reports/en (Caused by ConnectTimeoutError(<HTTPSConnection(host='bescom.karnataka.gov.in', port=443) at 0x25e49f61cc0>, 'Connection to bescom.karnataka.gov.in timed out. (connect timeout=30)'))]"
+      },
+      {
+        "source": "kerc_net_metering_karnataka",
+        "dimension": "subsidies_policy",
+        "url": "https://kerc.karnataka.gov.in/uploads/regulations/1608536079.pdf",
+        "reason": "Karnataka net metering rules — compare NEM policies across 3 states [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /uploads/regulations/1608536079.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f61450>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=45)'))]"
+      },
+      {
+        "source": "kredl_karnataka",
+        "dimension": "subsidies_policy",
+        "url": "https://kredl.karnataka.gov.in/page/New+Energy+Policy/index.html",
+        "reason": "Karnataka Renewable Energy Development Ltd — state subsidy schemes [ConnectTimeout: HTTPSConnectionPool(host='kredl.karnataka.gov.in', port=443): Max retries exceeded with url: /page/New+Energy+Policy/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kredl.karnataka.gov.in', port=443) at 0x25e49f62110>, 'Connection to kredl.karnataka.gov.in timed out. (connect timeout=30)'))]"
+      },
+      {
+        "source": "kerc_rpo_karnataka",
+        "dimension": "utility_standards",
+        "url": "https://kerc.karnataka.gov.in/page/orders+and+judgements/rpo+orders/index.html",
+        "reason": "State RPO compliance orders — Karnataka has one of highest RE shares (69%) [ConnectTimeout: HTTPSConnectionPool(host='kerc.karnataka.gov.in', port=443): Max retries exceeded with url: /page/orders+and+judgements/rpo+orders/index.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='kerc.karnataka.gov.in', port=443) at 0x25e49f63580>, 'Connection to kerc.karnataka.gov.in timed out. (connect timeout=30)'))]"
+      },
+      {
+        "source": "karnataka_solar_capacity",
+        "dimension": "unknown_unknowns",
+        "url": "https://mnre.gov.in/img/documents/uploads/file_f-1712126209688.pdf",
+        "reason": "MNRE state-wise capacity — Karnataka ~9.9 GW solar, wind+solar mix insight [HTTP 404]"
+      },
+      {
+        "source": "datagov_solar_capacity",
+        "dimension": "unknown_unknowns",
+        "url": "https://www.data.gov.in/catalog/state-wise-solar-power-capacity-installed-india",
+        "reason": "Machine-readable capacity data — use for dashboard charts [Extracted <100 chars — page may require JS]"
+      }
+    ],
+    "gap_impact": {
+      "cost_economics": "Incomplete if CERC tariff orders or SECI auction data missing — CAPEX estimates become indicative only. Missing KERC orders limits Karnataka cost comparison.",
+      "grid_access": "Missing Open Access Registry data means queue wait times are estimated from regulations, not actuals. BESCOM data gap limits Karnataka grid congestion analysis.",
+      "subsidies_policy": "Missing MNRE scheme PDFs limits subsidy amount precision — ballpark from NITI Aayog still possible. Missing KREDL data limits Karnataka scheme detail.",
+      "utility_standards": "Missing state RPO orders (RERC/GERC/KERC) means only national targets available — state compliance gap unknown for all three states.",
+      "approval_signals": "EIA transcripts require manual download — NLP over this dimension will be thinner than others. Pavagada land-lease model is unique unknown unknown for Karnataka.",
+      "unknown_unknowns": "Prayas + JMK data provides reasonable national coverage. Karnataka curtailment data and Pavagada farmer-lease model are key discovery-layer findings."
+    }
+  }
+}

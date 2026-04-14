@@ -1,0 +1,501 @@
+Rajasthan Electricity Regulatory Commission  
+   Vidyut Viniyamak Bhawan, Near State Motor Garage,Sahakar Marg, Jaipur -302001  
+           Phone: 0141 -2741299, 2740067, Fax: 0141 -2741018, E -mail: rercjpr@yahoo.co.in  
+                                               website: www.rerc.rajasthan.gov.in  
+ 
+PUBLIC NOTICE  
+ 
+In exercise of powers conferred under Section  86(1)(e) read with Section 181 
+of the Electricity Act, 2003, and all other p owers  enabling it in this behalf, th e 
+Rajasthan Electricity Regulatory Commission ha ving framed the following 
+Draft Regulations, invites suggestions/comments from the interested persons 
+before finalizing them . 
+ 
+‘RERC (Terms and Conditions for Green Energy Open Access) 
+Regulations, 2024 ’ 
+ 
+Notice is hereby issued inviting comments/suggestions on the above Draft 
+Regulations from interested persons. The copy of the Draft Regulations may 
+be obtained from the Receiving Officer of the Commission on payment of 
+Rs. 100/ -. The Draft Regulations are also available on Commission’s website 
+www.rerc.rajasthan.gov.in .   
+ 
+The comments/suggestions if any should reach the Receiving Officer of 
+the Commission  in six copies on or before  18.10.2024 . 
+ 
+                                                                                                         
+ 
+                                                                                                                  Secretary  
+ 
+(Not to be published)  
+ 
+ 
+ 
+ 
+                                                                                                                  (B.L.Goyal)  
+                                                                                                                        IAS 
+                                                                                                                 Secretary  
+ 
+ 
+
+   jktLFkku fo|qr fofu;ked vk;ksx  
+        fo|qr fofu;ked Hkou] LVsV eksVj xsjst ds ikl] lgdkj ekxZ]t;iqj&302001  
+          nqjHkk"k % bZ -ih-ch-,Dl 0141&2741299] QSDl %0141&2741018  
+        bZ&esy :  rercjpr@yahoo.co.in  Website : www.rerc.rajasthan.gov.in  
+ 
+ 
+lkoZtfud lwpuk  
+ 
+fo|qr vf/kfu;e] 2003  dh /kkjk 86 ¼1½¼bZ½  lgifBr /kkjk 181 ,oa vU; lHkh izko/kku tks 
+bl lanHkZ esa bls lkeF;Z iznku djrs gS a] ds varxZr jktLFkku fo|qr fofu;ked vk;ksx }kjk 
+izk:i  fofu;e cuk;s x;s gSA budks vafre :i nsus ls iwoZ vk;ksx }kjk lHkh bPNqd 
+O;fDr;ksa ls lq>ko@fVIif.k;ka vkeaf=r dh tkrh gS a% 
+jktLFkku fo|qr fofu;ked vk;ksx ¼ gfjr ÅtkZ [kqyh igqap  gsrq fucU èku ,oa 'krs±  ½  
+fofu;e] 2 024- 
+,rn~}kjk mijksDr of.kZr izk:i fofu;eks  dh lwpuk tkjh dj bPNqd O;fDRk;ksa ls 
+lq>ko@fVIif.k;k¡ vkefU=r fd;s tkrs gaS -SA izk:Ik fofu;e e; leFkZu fooj.k dh izfrfyih 
+vk;ksx ds izkIrdrkZ vf/kdkjh ds ikl miyC/k gS ftls : 100 dk udn Hkqxrku dj izkIr 
+fd;k tk ldr k gSSA izLrkfor fofu;e e; leZFkd fooj.k vk;ksx dh oSclkbZV 
+www.rerc.rajasthan.gov.in  ij Hkh miyC/k gSaA   
+ ;fn dksbZ O;fDr lq>ko@fVIif.k;k¡  nsuk pkgs rks vk;ksx ds izkIrdrkZ vf/kdkjh dks 
+fnukad 18-10-2024 rd ;k blls iwoZ N% izfr;ks esa izkIr gks tkuh pkfg, A 
+       
+  
+      lfpo 
+______________________________________________________________________________________   
+(Not to be published)  
+ 
+ 
+  ¼ch-,y-xks;y½ 
+    vkbZ,,l  
+    lfpo 
+ 
+ 
+
+1 
+ (Draft Regulation)  
+Rajasthan Electricity Regulatory Commission  
+“Rajasthan  Electricity Regulatory Commission (Terms and Conditions for Green  
+Energy Open  Access) Regulations, 202 4” 
+ 
+NOTIFICATION NO. ______ OF 2024  
+ 
+ In exercise of the powers conferred under Section 181 of the Electricity Act, 
+2003 (36 of 2003), read with Sections 39, 40, 42, 61 and 86 thereof and all other 
+powers enabling it in this behalf, and after previous publicat ion, the Rajasthan  
+Electricity Regulatory Commission hereby makes the following R egulations, 
+namely Draft Rajasthan  Electricity Regulatory Commission (Terms and Conditions 
+for Green Energy Open Access) Regulations, 202 4. 
+ 
+1. Short Title , Commencement  and Extent of Application : 
+ 
+i. These Regulations shall be called the Rajasthan Electricity Regulatory 
+Commission (Terms and Conditions for Green Energy Open Access) 
+Regulations, 202 4. 
+ 
+ii. These Regulations shall come into force from such date  as the Commission 
+may notify.  
+ 
+Provided that different dates may be appointed for commencement of 
+provision s of different regulations.  
+ 
+iii. These Regulations shall extend to the whole State of Rajasthan.  
+ 
+
+2 
+ iv. Notwithstanding anything contrary contained in any other Regulation  time 
+being in force , of the Commission, t hese Regulations shall be applicable for 
+allowing Open Access to electricity generated from Renewable Energy 
+Sources , both captive and third party , for use of Intra -State Transmission 
+System/s (InSTS) and/or distri bution system/s of licensee/s in the State, including 
+such Intra -State Transmission and/or distribution system/s, which are incidental 
+to Inter -State Transmission of electricity.  
+ 
+2. Definitions : 
+(i) In these regulations, unless the context otherwise requires  , 
+ 
+a. “Act" means the Electricity Act, 2003 (36 of 2003) ; 
+b. “Applicant” means a consumer, trading licensee, distribution licensee or a 
+Generating company who has applied seeking Green Energy Open 
+Access as the case may be;  
+c. “Banking” means the surplus green energy injected in the grid and 
+credited with the distribution licensee by the Green Energy Open Access 
+consumers and that shall be drawn along with charges to compensate 
+additional costs; if any;  
+d. "Central Nodal Agency”  means the Nodal Agency as notified by the 
+Central Government to set up and operate a single window green energy 
+open access system  for renewable energy as per the Rules;  
+e.  "Commission" means the Rajasthan Electricity Regulatory Commission.  
+f. “Entity” means any consumer who has contracted demand or san ctioned 
+load of one hundred kW or more either through single connection or 
+through multiple connections aggregating one hundred kW or more 
+located in the same electricity division of a distribution licensee, except 
+for captive consumers. However, in case of captiv e consumers, there shall 
+not be any load limitation.  
+
+3 
+ g. "Existing Consumer" means a person already availing open access for 
+sourcing/supplying  Renewable  energy to the transmission system and/or 
+distribution system of a licensee  in state  under an existing agre ement or 
+GoR  policy on the date of coming into force of these Regulations.  
+h. "Forum of Regulators" means the Forum as referred to in sub -section (2) of 
+section 166 of the Act.  
+i. “Green Energy/Renewable Energy” means the electrical energy from 
+renewable sources  of energy including hydro, pumped Storages Hydro 
+generation, energy storage system and storage (if the storage uses only 
+renewable energy), Municipal Solid Waste -to-Energy based generation, 
+biomass and bagasse based co -generation plants or any other 
+techn ology as may be notified by the GOI from time to time and shall also 
+include any mechanism that utilizes renewable energy to replace fossil 
+fuels including production of green hydrogen or green ammonia;  
+j. “Green Energy Open Access Consumer”  means any person who has 
+contract demand or sanctioned load of 100 kW or more, either through 
+single connection or through multiple connections aggregating one 
+hundred (100) kW or more located in same electricity division of a 
+distribution licensee, shall be e ligible to take Green Energy through Open 
+Access (captive consumers shall not have any load limit) or such other 
+limit as may be specified by Commission from time to time, who are 
+supplied with electricity from green energy sources for their own use by a 
+licensee or the Government or from its own Captive Generation Plant or 
+by any other person engaged in the business of supplying electricity to 
+the public including captive under the Electricity Act, 2003 or any other 
+law for the time being in force and incl udes any person whose premises 
+are for the time being connected for the purpose of receiving green 
+energy with the works of a licensee, the Government or such person, as 
+
+4 
+ the case may be. There shall be no limit of supply of power for the captive 
+consumers taking power under Green Energy Open Access:  
+k. “Obligated Entity” means the entities mandated under Clause (e) of 
+subsection (1) of Section 86 of the Act to fulfill the Renewable Purchase 
+Obligation, which includes distribution licensee, captive consumer / u ser 
+and open access consumer;  
+l. "Open Access" means the non -discriminatory provision for the use of 
+transmission lines or distribution system or associated facilities with such 
+lines or system by any licensee or consumer or a person engaged in 
+generation in accordance with the Regulations specified by  the 
+Appropriate Commission.  
+m.  "Person" shall include any company or body corporate or association or 
+body of individuals whether incorporated or not, or artificial juridical 
+person;  
+n. “Rules” means Rules made under  the Electricity Act 2003 including 
+Electricity (Promoting Renewable Energy Through Green Energy Open 
+Access)Rules, 2022 and subsequent Amendments.  
+o. "SLDC" means the State Load Dispatch Centre established under sub -
+section (1) of section 31 of the Act.  
+p. "State Transmission Utility ” means the Board or the Government  company 
+specified as such by the State Government under sub -section (1) of 
+section 39 of the Act;  
+q. “Standby charges” means the charges applicable to green energy open 
+access consumers against the standby arrangement provided by the 
+distribution licensee, in case such green energy open access consumer is 
+unable to procure/schedule power from the generating sources with 
+whom they have the agreements to procure power due to outages of 
+generator, trans mission systems and the like;  
+
+5 
+ r. "Wheeling" means the operation whereby the distribution system and 
+associated facilities of a transmission licensee or distribution licensee, as 
+the case may be, are used by another person for the conveyance of 
+electricity on payment of charges to be determined under section 52 of 
+the Act;  
+ 
+(ii) Words and expressions used and not defined in these regulations but 
+defined in the Act or the Indian Electricity Grid Code (IEGC ) or the Rules 
+prescribed by GOI or the State Grid Code or the State Electricity Supply 
+Code shall have the meaning assigned to them under the Act or the IEGC  
+or the Rules  or the State Grid Code, or the State Electricity Supply Code or 
+any other Regulations notified by the Commission as the case may be.  
+ 
+3. Criteria for allowing Green Energy Open Acc ess ( GEOA ) 
+i.  The long -term GEOA shall be allowed in accordance with the 
+transmission planning criteria and other relevant provisions stipulated in 
+the State Gri d Code and distribution plan  as prepared  by the Distribution 
+Licensee.  
+ 
+ii. The Short -Term/Medium Term open access shall be allowed, if the request 
+can be accommodated, by utilizing : 
+a. Inherent design margins  
+b. Margins available due to variation in power flows and  
+c. Margins available due to in -built spare transmission system ca pacity 
+and/or distribution system capacity created to cater to future load 
+growth;  
+ 
+Provided that any consumer  may elect to purchase  green energy either  
+up to a certain percentage of the consumption or its entire consumption 
+
+6 
+ and they may place a requisitio n for this with their distribution licensee, 
+which shall procure such quantity of green  energy and supply it and the 
+consumer shall have the flexibility to give separate req uisition for solar and 
+non-solar  Green Energy. 
+ 
+Provided also that a ny requisition for green ene rgy from a distribution 
+licensee shall be f or a minimum period of one year.  
+ 
+Provided also that t he quantum of green energy shall be pre -specified for 
+at least one year.  
+ 
+Provided also that t he green energy purchased from distribution licensee 
+or from Renewable Energy sources other than distribution licensee in 
+excess of Renewable Purchase Obligation of obligated entity shall be 
+counted towards Renewable Purchase Obligation compliance of the 
+distribution licensee.  
+ 
+Provided also that t he Accounting of r enewable energy supplied at 
+distribution licensee le vel shall be on a monthly basis.  
+ 
+4. Categorization of Green Energy Open Access:  
+The Green Energy Open Access consumers shall be classified into the following 
+categories based on the duration of use of the i ntra- state transmission and/or 
+distribution system:  
+i.  “Long -term Green Energy Open Access” means the right to use the intra -
+State transmission system and/or distribution system for a period 
+exceeding 12 years but not exceeding 25 years.  
+
+7 
+ ii. “Medium -term Green Energy Open Access” m eans the right to use the 
+intra -State transmission system and/or distribution system for a period 
+exceeding three months but not exceeding three years.  
+iii. “Short -term Green Energy Open Access” means open access for a period 
+up to one month at a time.  
+ 
+Provided that on expiry of granted short term Green Open Ac cess, if such 
+consumer desires to avail the short -term Green Energy Open Access for further 
+period , it shall require to file application for such period and such application 
+shall be considered as fresh application and priority shall be fixed on basis of 
+date of such application.  
+ 
+5. Eligibility Criteria for applying GEOA  
+i. Subject to the provisions of these  Regulations and system availability, 
+consumers shall be eligible for open access to the intra -state transmission 
+system of the State Transmission utility or any transmission licensee/s and 
+distribution system/s of the distribution Licensee/s within the St ate. 
+ 
+Provided that notwithstanding anything contained in these Regulations, 
+any RE generating company having subsisting Power Purchase 
+Agreement (PPA) with the Distribution Licensee, shall not be entitled to 
+Open Access for the RE capacity, for whi ch PPA is entered into, except i n 
+accordance with the terms of such PPA and also for such capacity 
+(quantum of power) for which Open Access is already granted.  
+ 
+Provided further that, such open access shall be available on payment of 
+such charges as may be deter mined by the Commission from time to 
+time.  
+
+8 
+ Provi ded also that such entities having  been declared insolvent  or 
+bankrupt or having outstanding dues against them for more than 2 
+months of billing of the distribution/ Transmission licensee or having a case 
+of unauthorized use of electricity / theft against them at the time of 
+application, shall not be eligible for Open Access.  
+ 
+ii. Every person, who has constructed a captive generating plant,  shall have 
+the right to open access as per the pro visions of Section 9 of the Act read 
+with rules & Regulations covered under the Act and orders of the 
+Commission on the subject matters from time to time.  
+ 
+Provided that cons umers who have contract demand or sanctioned load of 100 
+kW or more, either through single connection or t hrough multiple connections 
+aggregating Hundred (100) kW or more located in same electricity division of a 
+distribution licensee, shall be eligible to take Green Energy thro ugh Open 
+Access under these Regulations.  
+ 
+Provided further that there shall be no limit with respect to contracted load or 
+sanctioned load for the captive use of energy by the consumer opting under 
+Green Energy Open Access. However, this shall be on payment of charges and 
+on such terms & condition s as may be decided by the Commission.   
+ 
+6. Nodal Agency  
+i. All the applications related to green energy open access shall be submitted  
+through the portal set up by the Central Nodal Agency. The applications shall 
+be routed to the State Nodal Agency (SNA) by the  Central Nodal Agency.  
+ 
+Provided that the application received through Central Nodal Agency by SNA 
+shall be processed as per p rocedure & formats devised  by SNA.  
+
+9 
+  
+Provided also that the application shall be disposed within 15 days from the 
+date of receiving  the same from CNA . 
+ 
+ii. Rajasthan  State Transmission Utility  (STU)  shall operate as the State Nodal 
+Agency ( SNA) for grant of long -term and medium -term  green energy open 
+access and Rajasthan State Load Despatch  Centre (SLDC) shall operate as 
+the State Nodal Agency (SNA) for grant of  short -term green energy open 
+access.  
+iii. The STU  shall submit detailed procedures covering , but not limited to, timelines, 
+Bank Guarantee , fees, Rejection , Energy Accounting and Settlement and 
+other matters incidental thereto , required for smooth operation  of Green 
+Energy Open Access , for the approval of the Commission [along with required 
+formats for granting GEOA  within 30 days from the  notification of these 
+Regulations.  
+ 
+iv. The SNA shall coordinate with transmission licensees Including STU and the 
+Distribution Licensees to make available all relevant information regarding 
+green energy open access to the public on the portal of the Central Nodal 
+Agency.  
+ 
+7. Treatment for existing Consumers : 
+The existing consumer(s)/generators may continue to avail the RE under open 
+access as per the existing agreements or government policy for the period 
+specified in those agreements or policies.  
+ 
+Provided that the existing consumers/generators shall continue to pay the 
+applicable charges as specified in the ir respective agreements or as may be 
+determined by the Commission from time to time.  
+
+10 
+  
+Provided further that Green Energy O pen Access for the subsequent period in 
+respect of such consumer (s)/generator (s) shall be governed by provisions of 
+these Regulations.  
+ 
+Provided also that if Open Access for any additional RE capacity is sought by 
+such existing consumer(s)/generator (s) in addition to the capacity alread y 
+contracted unde r open access, the same shall be treated as new application 
+for Green Energy O pen Access to the extent of additional capacity sought.  
+ 
+8. Allotment priority  
+i. Distribution Licensees shall have highest priority.  
+ii. GEOA consumers shall have preference over  normal Open Access 
+consumers.  
+iii. Among the GEOA consumers, long -term GEOA consumers shall have 
+preference followed by Medium term and subsequently short -term, at any 
+given time, subject to availability of spare transmission/distribution system 
+capacity margi ns. 
+ 
+Provided that, the decision for allowing the green energy open access shall be 
+on the basis of first come first served.  
+ 
+ 
+9.  Non-Utilization  of open access service by Open Access Consumers  
+i. In the event of inability of the short -term open access consumer to utilize 
+for more than four hours, full or substantial part of the capacity allocated 
+to him, such a short -term open access consumer shall inform the 
+respective SLDC of his inability to uti lise the capacity, along with reasons 
+therefore and may surrender the use of capacity allocated to him. 
+
+11 
+ However, such short -term consumer shall bear full transmission and /or 
+wheeling charges based on the original reserved capacity and the period 
+for which  such capacity was reserved.  
+ 
+ii. A medium -term/long -term consumer shall not relinquish or transfer his 
+rights and obligations specified in the open access agreement without 
+prior approval of the state nodal agency. The relinquishment or transfer of 
+such rights and obligations by a long -term /medium term  consumer shall 
+be subject to payment of compensation, as provided in the procedure to 
+be approved by the Commission.  
+ 
+iii. The State Nodal Agency  may cancel or reduce the capacity allocated to 
+a short -term open access consumer to the extent it is underutilized, when 
+such a short -term open access consumer under -utilizes the allocated 
+capacity more than 2 times in a month with duration of under  utilization 
+exceeding 2 hours each time or fails to inform the distribut ion licensee of 
+his inability to utilize  the allocated capacity. Such cancellation shall be 
+resorted to after giving due notice . 
+ 
+iv. The surplus capacity available as a result of its surrender by the short -term 
+open  access consumer under clause (i ) above or r eduction or 
+cancellation of capacity by the SLDC unde r clause (iii ) above, may be 
+allocated to any other short -term open access consumer in the order of 
+pending applications based on the point of injection and drawl . 
+ 
+10. Energy Accounting  : 
+i. Inter -state transa ctions : 
+In case of Green Energy Open Access carried out under inter -state 
+transaction , energy accounting shall be as per the CERC Regulations.  
+
+12 
+  
+Notwithstanding anything contrary  contained in any other Regulation s 
+time being in force,  if the generator situated in the State of Rajasthan  and 
+connected with the State grid and selling power outside the State the 
+energy accounting for deviation settlement be carried out , wherein the 
+deviation charge shall be either (A) Reference Charge Rate or (B) Normal 
+Rate of Charges for deviation, whichever is higher.  
+ 
+Explanation: Reference Charge Rate and Normal Rate of Charges for 
+deviation shall have the meaning as defined in CERC DSM Regulations 
+from time to time.  
+ 
+ii. Intra -state transactions :  
+Long Term Access/Medium -Term Open Access/Short -Term Open Access:  
+ 
+The deviation charges shall be payable by the generator as per the RERC 
+(Forecasting and Scheduling and Related Matters for Solar and Wind 
+Generation Sources) Regulations, 2017  as amended from time to time .  
+ 
+Provided that the Green Energy Generator (RE generator) other than 
+solar, wind and Wind -Solar Hybrid generator which were commissioned 
+under the respective RE tariff orders passed by the Commission from time 
+to time and in operation shall be governed by the provisions of relevant 
+orders of the Commission.  
+ 
+Provided further that mechanism for energy settlement may be provided 
+in the procedure to be approved by the Commission.   
+ 
+11. Charges for Green Energy Open Access : 
+
+13 
+ The cha rges payable by the Green Energy Open Access consumers shall be as 
+follows: - 
+i. Transmission Charges  
+ii. Wheeling Charges  
+iii. Cross subsidy charges  
+iv. Additional surcharge  
+v. Banking Charges  
+vi. Stand by charges, wherever applicable  
+vii. Reactive Energy Charges.  
+viii. Other fees and charges such as SLDC fees and scheduling charges, 
+deviation   settlement (DSM) charges as per the relevant Regulations or  
+orders of the Commission.  
+ix. Any other charges as may be decided by the Commission from time to 
+time  
+ 
+11.1 Transmission Charge s  
+Green Energy Open Access Consumer using transmission system shall pay 
+the charges as stated hereunder:  
+ 
+11.1.1    For use of inter -State transmission system:  
+       As specified by the Central Commission from time to time.  
+ 
+11.1.2   For use of intra -State transmission system:  
+The determination of Transmission Charges for Long -Term, Medium -
+Term and Short -Term open access shall be determined by the 
+Commission as per th e prevailing provisions of the R ERC Tariff  
+Regulations from time to  time. The applicable rate of Transmission 
+Charge payable by Green Energy Open Access Consumer shall be 
+specified by the Commission in its Tariff Order . 
+
+14 
+  
+11.2 Wheeling Charges  
+Wheeling charges payable to distribution licensee, by the Green 
+Energy Open Access Consumer for usage of its system shall be as 
+determined by the Commission in the  tariff order from time to time 
+subject to provisions of RERC ( Terms and Conditions for Tariff 
+determination from Renewable Energy Sources) Regulations , 2020 as 
+amended from time to time.  
+ 
+11.3 Cross Subsidy Surcharge  
+a. The Green Energy Open Access facility availed by a consumer shall be 
+required to pay cross subsidy surcharge as provided in relevant Tariff 
+Order issued by the Commission from time to time, in a ddition to 
+transmission and/or wheeling charges. Cross subsidy surcharge 
+determined by the Commission on Per Unit basis shall be payable, on 
+billing cycle basis, by the open access customers based on the actual 
+energy consumed during the billing period thr ough open access. The 
+amount of surcharge shall be paid to the distribution licensee in whose 
+area of supply such consumer is situated.  
+ 
+Provided that such cross -subsidy surcharge shall not  be levied in case 
+green energy open access is provided to a person  who has 
+established a captive generation plant for carrying the electricity to 
+the destination of his own use.  
+ 
+Provided further that the Commission may not increase cross -subsidy 
+surcharge for Green Energy Open Access Consumer purchasing green 
+energy, f rom a generating plant using green ene rgy (renewable 
+energy) sources,  during twelve years from the date of operating of the 

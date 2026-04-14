@@ -1,0 +1,6 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+data/solar_india.index
+data/chunks_meta.pkl

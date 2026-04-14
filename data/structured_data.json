@@ -1,0 +1,523 @@
+{
+  "capex_benchmarks": [],
+  "tariff_rates": [],
+  "rpo_targets": [
+    {
+      "value": "3.36",
+      "context": "le Purchase Obligation ) Regulations, 2023. For FY 2025 -26 Commission has specified RPO targets as 3.36% Wind RPO, 1. 48% HPO and Other RPO 2 8.17% totaling to 33.01 %. To meet their RPO targets for F Y 2025 -26, in addition to their existing tie up",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "28.17",
+      "context": ".No. Particulars Percentage Energy required (MU) 1 Wind RPO 3.36% 3903 2 HPO 1.48% 1719 3 Other RPO 28.17% 32721 4 Total RPO 33.01 % 38343 3.98 To meet the above RPO requirement, self -consumption by the Roof top Solar, shall be part of Discoms other",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "33.01",
+      "context": "ommission has specified RPO targets as 3.36% Wind RPO, 1. 48% HPO and Other RPO 2 8.17% totaling to 33.01 %. To meet their RPO targets for F Y 2025 -26, in addition to their existing tie ups, Discoms will have to procure additional renewable energy.",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "48",
+      "context": "ion ) Regulations, 2023. For FY 2025 -26 Commission has specified RPO targets as 3.36% Wind RPO, 1. 48% HPO and Other RPO 2 8.17% totaling to 33.01 %. To meet their RPO targets for F Y 2025 -26, in addition to their existing tie ups, Discoms will hav",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "8.17",
+      "context": "For FY 2025 -26 Commission has specified RPO targets as 3.36% Wind RPO, 1. 48% HPO and Other RPO 2 8.17% totaling to 33.01 %. To meet their RPO targets for F Y 2025 -26, in addition to their existing tie ups, Discoms will have to procure additional",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "80",
+      "context": "ability of funds at their level. 3.185 The Commissi on for the purpose of this order has considered 80% capitalization as proposed by Discoms. The Commission shall consider the actual expenditure at the time of True up. Further Discoms should ensure",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "50",
+      "context": "se of New Agriculture Connection under RE Works: Discom s has indicated release of 37783 , 40000 & 45000 Nos. of new agriculture connections in their ARR for JVVNL, AVVNL and JdVVNL respectively . 3.229 The Commission while allowing sales has conside",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "6.76",
+      "context": "olar 403.00 6.99 4.5.12 TPL-D has submitted that it has achieved 7.68% RPO related to Non-solar and 6.76% RPO related to Solar. There is shortfall in RPO pertaining to solar and non-solar energy purchase. The Commission notes that TPL has filed a Tor",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "7.68",
+      "context": "5 Solar rooftop 122.58 2.32 Total Solar 403.00 6.99 4.5.12 TPL-D has submitted that it has achieved 7.68% RPO related to Non-solar and 6.76% RPO related to Solar. There is shortfall in RPO pertaining to solar and non-solar energy purchase. The Commis",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "33.01",
+      "context": "% of Renewable Power of Total Power as per TPL-D (A) (%) 18.01% 25.74% 31.95% 31.43% 39.16% RPO (%) 33.01% 35.95% 38.81% 41.37% 43.33% Torrent Power Limited – Distribution (Ahmedabad) Truing up for FY 2023-24, ARR for FY 2025-26 to FY 2029-30 and Det",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "18.01",
+      "context": "408.29 3,506.75 4,439.97 4,454.49 5,660.60 % of Renewable Power of Total Power as per TPL-D (A) (%) 18.01% 25.74% 31.95% 31.43% 39.16% RPO (%) 33.01% 35.95% 38.81% 41.37% 43.33% Torrent Power Limited – Distribution (Ahmedabad) Truing up for FY 2023-2",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "098.53",
+      "context": "3,796.39 14,074.62 Quantum of Renewable Power Projection – MU 4,305.32 4,774.31 5,251.66 5,707.57 6,098.53 % of Renewable Power of Total Power approved as per RPO- (%) 33.01% 35.95% 38.81% 41.37% 43.33% 5.5.9 Accordingly, TPL-D (A) is directed to mee",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "43.33",
+      "context": "7 6,098.53 % of Renewable Power of Total Power approved as per RPO- (%) 33.01% 35.95% 38.81% 41.37% 43.33% 5.5.9 Accordingly, TPL-D (A) is directed to meet the RPO trajectory for each year of MYT Control Period and specified renewable energy consumpt",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "2.51",
+      "context": "48% 28.17% 33.01% 2026-27 4.29% 1.80% 29.86% 35.95% 2027-28 5.23% 2.15% 31.43% 38.81% 2028-29 6.16% 2.51% 32.69% 41.36% 2029-30 6.94% 2.82% 33.57% 43.33% (a) Wind RPO shall be met by energy produced from Wind Power Projects (WPPs) commissioned after",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "7",
+      "context": "ligations Trajectory till 2029 -30 Ministry of Power has issued RPO trajectory vide order dated 22.07.2022 and corrigendum dated 19th September,2022. It specifies the RPO trajectory beyond 2021 -22 as given below: Year Wind RPO HPO Other RPO Total RP",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "41.36",
+      "context": "41.36% 2029-30 6.94% 2.82% 33.57% 43.33% iii. RPO may be calculated in energy terms as a percentage of total consumption of electricity. iv. Wind RPO",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "5",
+      "context": "41.36% 2029-30 6.94% 2.82% 33.57% 43.33% iii. RPO may be calculated in energy terms as a percentage of total consumption of electricity. iv. Wind RPO shall be met by energy produce",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "11",
+      "context": "tage are off river projects. The upcoming PSP projects provide a daily storage in the range of 6 to 11 hours. These projects have long life cycle of 40 years or more . PSP projects, along with the storage hours considered for the generation expansion",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "2.51",
+      "context": "48% 28.17% 33.01% 2026-27 4.29% 1.80% 29.86% 35.95% 2027-28 5.23% 2.15% 31.43% 38.81% 2028-29 6.16% 2.51% 32.69% 41.36% 2029-30 6.94% 2.82% 33.57% 43.33% (a) Wind RPO shall be met by energy produced from Wind Power Projects (WPPs) commissioned after",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "7",
+      "context": "ligations Trajectory till 2029 -30 Ministry of Power has issued RPO trajectory vide order dated 22.07.2022 and corrigendum dated 19th September,2022. It specifies the RPO trajectory beyond 2021 -22 as given below: Year Wind RPO HPO Other RPO Total RP",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "41.36",
+      "context": "41.36% 2029-30 6.94% 2.82% 33.57% 43.33% iii. RPO may be calculated in energy terms as a percentage of total consumption of electricity. iv. Wind RPO",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "5",
+      "context": "41.36% 2029-30 6.94% 2.82% 33.57% 43.33% iii. RPO may be calculated in energy terms as a percentage of total consumption of electricity. iv. Wind RPO shall be met by energy produce",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "11",
+      "context": "tage are off river projects. The upcoming PSP projects provide a daily storage in the range of 6 to 11 hours. These projects have long life cycle of 40 years or more . PSP projects, along with the storage hours considered for the generation expansion",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "24",
+      "context": "Regulatory Commission Tariff Order 2025 ESCOMs Chapter – 4: An nual Performance Review for FY2023 -24 Page 55 Details Quantum in MU Bundled solar old 103.58 Bundled solar new 7.11 PPA including banked energy* 1323.60 Less RE sold in market = 8.63 (7",
+      "source_id": "kerc_tariff_karnataka",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "33.10",
+      "context": "with excess RE purchase of 454500 MWh for FY23. D. HESCOM HESCOM has reported the RPO compliance as 33.10% as against target of 24% for the year FY24. The preliminary observations of the Commission and the reply furnished by HESCOM are discussed belo",
+      "source_id": "kerc_tariff_karnataka",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "33.10",
+      "context": "with excess RE purchase of 454500 MWh for FY23. D. HESCOM HESCOM has reported the RPO compliance as 33.10% as against target of 24% for the year FY24. The preliminary observations of the Commission and the reply furnished by HESCOM are discussed belo",
+      "source_id": "kerc_tariff_karnataka_full",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "22",
+      "context": "omplied in % [No 12/No 1]*100 12.85 E. GESCOM GESCOM has reported that as against the RPO target of 22% for the year FY24, it has achieved 29.49%. Chapter – 4: Annual Performance Review for FY2023-24 Page 72 [TABLE - Page 85] 7 | Non-solar RE purchas",
+      "source_id": "kerc_tariff_karnataka_full",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "24.00",
+      "context": "650.25 | 7,250.69 | 8,308.56 | 15,219.54 | 10,869.02 | 83,298.07 RPO target (%) | 25.25% | 26.50% | 24.00% | 24.00% | 22.00% | 24.58% RE Energy Required to meet RPO | 10,516.69 | 1,921.43 | 1,994.06 | 3,652.69 | 2,391.18 | 20,476.05 [TABLE - Page 92]",
+      "source_id": "kerc_tariff_karnataka_full",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "3.36",
+      "context": "able Purchase Obligation) Regulations, 2023. For FY 2025-26 Commission has specified RPO targets as 3.36% Wind RPO, 1.48% HPO and Other RPO 28.17% totaling to 33.01%. To meet their RPO targets for FY 2025-26, in addition to their existing tie ups, Di",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1.48",
+      "context": "ligation) Regulations, 2023. For FY 2025-26 Commission has specified RPO targets as 3.36% Wind RPO, 1.48% HPO and Other RPO 28.17% totaling to 33.01%. To meet their RPO targets for FY 2025-26, in addition to their existing tie ups, Discoms will have",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "28.17",
+      "context": "023. For FY 2025-26 Commission has specified RPO targets as 3.36% Wind RPO, 1.48% HPO and Other RPO 28.17% totaling to 33.01%. To meet their RPO targets for FY 2025-26, in addition to their existing tie ups, Discoms will have to procure additional re",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "33.01",
+      "context": "ge Energy required (MU) 1 Wind RPO 3.36% 3903 2 HPO 1.48% 1719 3 Other RPO 28.17% 32721 4 Total RPO 33.01% 38343 3.98 To meet the above RPO requirement, self-consumption by the Roof top Solar, shall be part of Discoms other RPO, without any cost burd",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "50",
+      "context": "are as under: Particulars FY 2023-24 FY 2024-25 FY 2025-26 JVVNL Domestic Connections Rural 97833 135000 200000 Energization of wells 45,000 45,000 37783 AVVNL Domestic Connections Rural 100000 100000 100000 Energization of wells 70000 50000 40000 JD",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "80",
+      "context": "lability of funds at their level. 3.185 The Commission for the purpose of this order has considered 80% capitalization as proposed by Discoms. The Commission shall consider the actual expenditure at the time of True up. Further Discoms should ensure",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    }
+  ],
+  "capacity_stats": [
+    {
+      "value": "4443",
+      "context": "the associated benefits as decentralized generation and is committed towards the deployment of such measures. (i) PM-KUSUM Yojana It is submitted tha",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "489",
+      "context": "pply, Erection, Te sting, Commissioning and Comprehensive Operation and Maintenance for 25 years of 489 MW Grid Connected Rooftop Solar Photovoltaic Power Projects on State Government buildings / State Government undertaking buildings in Rajasthan. i",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "27.55",
+      "context": "25, 2305/2025 of Financial Year 2024 -25 (till 4th Quarter) Apart from above commissioned projects, 27.55 MW solar PV capacity has been successfully commissioned after March 2024 while installation & commissioning of around 677.45 MW solar PV capacit",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "677.45",
+      "context": "ty has been successfully commissioned after March 2024 while installation & commissioning of around 677.45 MW solar PV capacity is under progress . Further AVVNL submitted that Chief Engineer (Project) has directed all circle Superintending Engineers",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "4705",
+      "context": "e d irected to furnish the following information on quarterly basis . FY:.. Quarter:. Solar Wind of 4705 MW solar power, slated to commission by mid of next year. Further, RUVITL has arranged/started process to tie up further a staggering capacity of",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "18085",
+      "context": "is submitted that in view of abundant solar resources potential, Discoms are aggressively implementing ‗Decentralized So lar Power Plants‘ through PM",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1200",
+      "context": "tical infrastructure. Overall, BESS implementation enhances in FY 2023 -24 had floated a tender for 1200 MW solar power with committed energy supply from energy storage systems. However, same was scrapped on account of high tariff discovery. Likewise",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1500",
+      "context": "VVNL: RUVITL in recent past had floated three such tenders, two being for procurement of power from 1500 MW Wind -Solar Hybrid projects and 1200 MW solar power with committed energy supply from ESS. Both tenders were terminated due to lack of competi",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1000",
+      "context": "ack of competition and high tariff discovery. The other tender, as aforementioned, is for tie up of 1000MW / 6000 200 Petition No. RERC 2303/2025, 2304/2025, 2305/2025 Dispatchable Renewable Energy (FDRE)etc., which will ben efit them not only in ter",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "2000",
+      "context": "AVVNL & JdVVNL : RUVITL has made arrangements for forthcoming Rabi season. Solar capacity of around 2000 MW is expe cted to commission by Dec. 2024 from already planned capacity. Efforts being made to operate State, Central & Private generating stati",
+      "source_id": "rerc_tariff_rajasthan",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "450",
+      "context": "s Compliance: TPL-D (A) submitted that regarding RPO fulfilment, the Petitioner has already tied up 450 MW solar power through bidding process. The project is expected to be commissioned during FY 2024-25. Further, the Petitioner has also tied up 300",
+      "source_id": "gerc_tariff_gujarat",
+      "state": "gujarat",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "63302.49",
+      "context": "for power generation economically . However, the diurnal nature of solar power lends it unable to meet demand occurring during the evening hours and",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "40357.58",
+      "context": "for power generation economically . However, the diurnal nature of solar power lends it unable to meet demand occurring during the evening hours and",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "54",
+      "context": "installed capacity has increased significantly in the last five years from 2.6 GW in March 2014 to 54 GW in March 2022. Year wise achievement of Grid connected solar power project is shown in Table 6.3: Central Electricity Authority National Electri",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "30.80",
+      "context": "der Component C. All components combined would support installation of additional solar capacity of 30.80 GW. 6.6.4 Green Energy Corridors To facilitate evacuation of electricity from RE projects, Green Energy Corridor scheme was launched in 2015 for",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "1",
+      "context": "the most cost - effective ways to produce clean reliable power both on -grid and off -grid. Table 9.14 present the major material requirement of Solar Photovoltaic power plants. Table 9.1 4 Material usage estimate* for Solar PV S No Item Attribute Un",
+      "source_id": "cea_national_electricity_plan",
+      "state": "national",
+      "dimension": "grid_access"
+    },
+    {
+      "value": "30",
+      "context": "on in residential sector. b) To help provide free/low -cost electricity to 1 crore households up to 300 units of electricity per month by installation of rooftop solar. 3 c) To produce renewable electricity of 1,000 billion units through the capacity",
+      "source_id": "mnre_pm_surya_ghar",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "63302.49",
+      "context": "for power generation economically . However, the diurnal nature of solar power lends it unable to meet demand occurring during the evening hours and",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "40357.58",
+      "context": "for power generation economically . However, the diurnal nature of solar power lends it unable to meet demand occurring during the evening hours and",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "54",
+      "context": "installed capacity has increased significantly in the last five years from 2.6 GW in March 2014 to 54 GW in March 2022. Year wise achievement of Grid connected solar power project is shown in Table 6.3: Central Electricity Authority National Electri",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "30.80",
+      "context": "der Component C. All components combined would support installation of additional solar capacity of 30.80 GW. 6.6.4 Green Energy Corridors To facilitate evacuation of electricity from RE projects, Green Energy Corridor scheme was launched in 2015 for",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "1",
+      "context": "the most cost - effective ways to produce clean reliable power both on -grid and off -grid. Table 9.14 present the major material requirement of Solar Photovoltaic power plants. Table 9.1 4 Material usage estimate* for Solar PV S No Item Attribute Un",
+      "source_id": "niti_aayog_energy_policy",
+      "state": "national",
+      "dimension": "subsidies_policy"
+    },
+    {
+      "value": "5000",
+      "context": "ay into peak, off -peak, and normal periods to match with the reality. It is also a fact that about 5000 MW - 6200MW of solar power is available only during the daytime between 9.30 am and 3.30 pm, and there is a need to align t he demand to match wi",
+      "source_id": "kerc_tariff_karnataka",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "4.2",
+      "context": "JMK Academy Databases Login 4.2 GW wind and 23.8 GW solar installed in India in FY2025 Share this: Click to share on Twitter (Opens in new window) Click to share on LinkedIn (Ope",
+      "source_id": "jmk_solar_report_2025",
+      "state": "all_three",
+      "dimension": "unknown_unknowns"
+    },
+    {
+      "value": "23832",
+      "context": "JMK Academy Databases Login 4.2 GW wind and 23.8 GW solar installed in India in FY2025 Share this: Click to share on Twitter (Opens in new window) Cl",
+      "source_id": "jmk_solar_report_2025",
+      "state": "all_three",
+      "dimension": "unknown_unknowns"
+    },
+    {
+      "value": "4151",
+      "context": "JMK Academy Databases Login 4.2 GW wind and 23.8 GW solar installed in India in FY2025 Share this: Click to share on Twitter (Opens in new window) Cl",
+      "source_id": "jmk_solar_report_2025",
+      "state": "all_three",
+      "dimension": "unknown_unknowns"
+    },
+    {
+      "value": "16.9",
+      "context": "s in India Source: CEA, MNRE, JMK Research From April 2024 to March 2025, India added approximately 16.9 GW of new utility-scale solar capacity, which represents a 47% increase compared to the previous year’s installations due to accelerated deployme",
+      "source_id": "jmk_solar_report_2025",
+      "state": "all_three",
+      "dimension": "unknown_unknowns"
+    },
+    {
+      "value": "50",
+      "context": "allations due to accelerated deployment of utility-scale projects following MNRE’s 2023 mandate for 50 GW of tender issuance. Additionally, this significant rise in solar installed capacity can be due to strong momentum of the green open access marke",
+      "source_id": "jmk_solar_report_2025",
+      "state": "all_three",
+      "dimension": "unknown_unknowns"
+    },
+    {
+      "value": "5000",
+      "context": "day into peak, off-peak, and normal periods to match with the reality. It is also a fact that about 5000 MW - 6200MW of solar power is available only during the daytime between 9.30 am and 3.30 pm, and there is a need to align the demand to match wit",
+      "source_id": "kerc_tariff_karnataka_full",
+      "state": "karnataka",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "4443",
+      "context": "deployed across the distribution network. (i) PM-KUSUM Yojana a) As per the MNRE against the target of 550 MW around 201 MW capacity (out of the tota",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "489",
+      "context": "upply, Erection, Testing, Commissioning and Comprehensive Operation and Maintenance for 25 years of 489 MW Grid Connected Rooftop Solar Photovoltaic Power Projects on State Government buildings / State Government undertaking buildings in Rajasthan. i",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "27.55",
+      "context": "- Page 190 --- of Financial Year 2024-25 (till 4th Quarter) Apart from above commissioned projects, 27.55 MW solar PV capacity has been successfully commissioned after March 2024 while installation & commissioning of around 677.45 MW solar PV capacit",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "677.45",
+      "context": "ty has been successfully commissioned after March 2024 while installation & commissioning of around 677.45 MW solar PV capacity is under progress. Further AVVNL submitted that Chief Engineer (Project) has directed all circle Superintending Engineers",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "4705",
+      "context": "n during 4th Quarter | 1.25 | 1.25 Till 25.11.2024 | 570.16 | 570.16 --- Page 194 --- their RPO. of 4705 MW solar power, slated to commission iii. As Rajasthan Urja Vikas by mid of next year. Further, RUVITL has Nigam Limited (RUVNL) is arranged/star",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "18085",
+      "context": "cater its energy needs through affordable RE power and at present is poised to make a paradigm shift to satisfy majority of its demand through RE sou",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1200",
+      "context": "024. Moreover, RUVITL --- Page 198 --- Distribution Licensee in FY 2023-24 had floated a tender for 1200 MW including the deemed solar power with committed energy supply licensee The ESO can be from energy storage systems. However, same fulfilled by",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1500",
+      "context": "a) The Discoms are directed tenders, two being for procurement of power to explore innovative from 1500 MW Wind-Solar Hybrid projects and 1200 MW solar power with committed energy tender designs considering the Round- supply from ESS. Both tenders w",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "1000",
+      "context": "ack of competition and high tariff discovery. The other tender, as aforementioned, is for tie up of 1000MW / 6000 --- Page 200 --- Dispatchable Renewable MWh per day from Pumped ESS, currently in Energy (FDRE)etc., which abeyance pending finalization",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    },
+    {
+      "value": "2000",
+      "context": "ms that while arrangements for forthcoming Rabi season. planning for power Solar capacity of around 2000 MW is purchase; Discom should expected to commission by Dec. 2024 from consider seasonal already planned capacity. Efforts being demand and ensur",
+      "source_id": "rerc_tariff_rajasthan_full",
+      "state": "rajasthan",
+      "dimension": "cost_economics"
+    }
+  ],
+  "subsidy_amounts": [],
+  "_generated": "2026-04-13",
+  "_source_count": 21,
+  "_chunk_count": 3252
+}

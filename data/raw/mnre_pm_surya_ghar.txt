@@ -1,0 +1,1444 @@
+
+
+
+
+
+
+
+
+ 
+1 
+ Draft Guidelines for implementation of PM -Surya Ghar: Muft Bijli Yojana  Central Financial 
+Assistance Component  
+ 
+1) Background  
+ 
+a) The Government of India has approved the PM Surya Ghar : Muft Bijli Yojana on 29th February,  
+2024 to increase the share of solar rooftop capacity and empower residential households to 
+generate their own electricity. The scheme has an outlay of Rs 75,021 crore and is to be 
+implemented till  FY 2026 -27. Out of this, the Central Financial Assistance component for 
+residential households amount to  Rs 65,700 crore. Additionally, in order to implement the 
+programme , a provision has been made for Capacity Building (1% of CFA), Awareness and 
+Outreach (1% of CFA) and Service Charges (1% of CFA) equivalent to  Rs 657 crore for each of 
+the above components.  The administrative approval was granted to the scheme vide Order No. 
+318/17/2024 -Grid Connected Rooftop dated 16th March, 2024.  
+b) The Financial Outlay for the scheme includes the following: - 
+CFA to Residential Consumers  ₹ 65,700 cr ore 
+Incentives for Discoms  ₹ 4,950 cr ore 
+Model Solar Villages in each district  ₹ 800 cr ore 
+Incentives for Local Bodies  ₹ 1000 cr ore 
+Payment Security Mechanism  ₹ 100 cr ore 
+Innovative Projects  ₹ 500 cr ore 
+Capacity Building (1% of CFA)  ₹ 657 cr ore 
+Awareness & Outreach (1% of CFA)  ₹ 657 cr ore 
+Service Charge (1% of CFA)  ₹ 657 cr ore 
+Total  ₹ 75,021 cr ore 
+ 
+2) Scope  
+
+ 
+2 
+ a) These guidelines pertain to the implementation of Sub-component 1 “Central Financial 
+Assistance (CFA) to residential consumers) with a financial outlay of Rs 65,700 crore as per the 
+administrative approval.   
+b) These guidelines shall be applicable for all applications received on the National Portal  from the 
+date of the launch of the scheme, i.e. 13th February , 2024.  The scope of applicability for various 
+cases are detailed in Annexure I.  
+c) The existing scheme of Phase II Grid Connective Rooftop Solar Programme  having a budgetary 
+outlay of Rs 11,814 crore till 2025 -26 shall be continued till the notification of the new scheme 
+and get subsumed in the new scheme after such notification.   
+d) The CFA and other releases for the PM – Surya  Ghar: Muft Bijli Yojana shall be made from the 
+budgetary outlays of Rooftop Solar Phase II Programme  till the dedicated budget allocation fo r 
+the scheme are operational and disbursements can be made out from them.  
+e) Once the new scheme budget is operational, the budget of Phase II programme  will get  
+subsumed into the new scheme, and the new scheme funds shall  be utilized for meeting the 
+ongoing liabilities of the Phase II programme  also.   
+f) The CFA releases for ongoing projects against allocations made by MNRE to implementation 
+agencies under Phase II shall be governed by the guidelines issued under the Phase II 
+programme  and shall not be covered under the PM – Surya  Ghar Scheme CFA structure. 
+However, the budgetary releases for phase II programme  shall be met through the new scheme 
+outlay.  The guidelines pertaining to other components of the scheme shall be issued separately.  
+g) The implementation period of the scheme shall be till 31st March, 202 7. All eligible claims shall 
+be settled within the implementation period of the scheme.  
+ 
+3) Aim and Objectives of PM  – Surya Ghar: Muft Bijli Yojana   
+ 
+The key objectives of the programme  are:  
+a) To achieve 1 crore rooftop solar system (RTS) installation in residential sector.  
+b) To help provide free/low -cost electricity to 1 crore households up to 300 units of electricity per 
+month by installation of rooftop solar.  
+
+ 
+3 
+ c) To produce renewable electricity of 1,000 billion units through the capacity installed under the 
+programme , which will result in reduction of 720 million ton of CO2eq emission during the 25 
+years of lifetime for rooftop solar projects.  
+d) To develop the required enabling ecosystem for rooftop solar projects, including regulatory 
+support, manufacturing facilities, supply chain, vendor network, operation & maintenance 
+facilities, etc., in the country.  
+e) To boost local economy and employment generation along with enhanced energy security  
+f) To aid in achievement of India’s commitment for green climate through its NDCs (Nationally 
+Determined Contributions) at UNFCCC by installation of 30 GW of solar capacity through 
+rooftop solar by 2026 -27 
+ 
+4) Strategy  
+ 
+a) The CFA component of the Scheme will be implemented through the National Portal for PM  -
+Surya Ghar (hereinafter mentioned as “the Portal” or “NP”).  
+b) Vendors will register on the National Portal.  The vendors will upload their details, including 
+system offerings, price points, system design and specifications , key personnel etc.  
+c) The beneficiaries will apply on the National Portal and will get a unique application ID . The 
+beneficiary  will select  the vendor for their rooftop solar installation assisted by various decision -
+making  tools on the Portal.  
+d) The beneficiary and the vendor will mutually decide the rates, system specifications, 
+customization of design as per location , value added services etc ., subject to the minimum  
+technical specifications mandated under the scheme.  
+e) In order to ensure that the customers are not overcharged, the Ministry of New and Renewable 
+Energy will publish benchmark prices of solar modules, inverters,  and other important 
+equipment on the portal  every year .   
+
+ 
+4 
+ f) Once the designated vendor has been chosen and it has installed the RTS system  after due 
+approvals , the concerned Distribution Utility (hereinafter referred to as “DISCOM”) shall 
+conduct a physical inspection, sign the necessary agreements with the beneficiary (net meter 
+agreement or otherwise), conduct a checklist -based  inspection and approve the DISCOM  
+report.  
+g) The scheme will establish minimum technical specifications required for rooftop solar to be 
+considered eligible for the CFA. The vendors shall ensure that systems installed under the 
+scheme are in adherence with all scheme guidelines.  
+h) The CFA will be transferred  to the concerned account of  the beneficiary which  may either be 
+the bank account of the beneficiary or the loan account of the beneficiary in case  the beneficiary 
+has opted for a loan for the RTS system.  
+ 
+5) Central Financial Assistance  
+ 
+a) Eligibility :  
+i) For the purpose of CFA, residential RTS plant would be the grid connected solar power system 
+tagged to a particular residential power connection of the local DISCOM and will only include 
+installations on a roof/terrace/ balcony/ elevated structures .  
+ii) The CFA shall be irrespective of the size of the inverter installed. If a consumer installs a rooftop 
+solar plant with a higher/lower rated inverter capacity than the number of modules, the CFA 
+provided will be as per the rated DC capacity of the module system (according to the CFA 
+structure) and not as per the inverter capacity.  
+iii) Solar modules used in the installation must satisfy the Domestic Content Requirement condition 
+i.e., domestically manufactured modules manufactured from domestically manufactured cells  
+to be eligible for the CFA.  
+iv) A rooftop solar installation  by residential consumers /RWAs  that has availed CFA under a 
+prior /current scheme  for rooftop solar by Ministry of New and Renewable Energy and has 
+subsequently increased the RTS installation size shall be eligible for  additional  CFA under the 
+current scheme only for the balance capacity up to 3 kW of overall RTS plant size .  
+
+ 
+5 
+ (1) For example, if a household had installed  a RTS of 1 kW under Phase 2 Grid Connected 
+Rooftop Solar Scheme and avail ed a subsidy of Rs 14,588 , and if such a household 
+enhance s the total capacity to 4 kW overall , in such a case, the household shall be 
+eligible to claim an additional subsidy  under the current scheme only  for the 
+additional 2 kW capacity, i.e. Rs 48,000.  
+(2) Alternatively, if a household installs a RTS of 1 kW under PM – Surya Ghar scheme and 
+avails a subsidy of Rs 30,000, and if such a household later enhances the total capacity 
+to 4 kW overall , in such a case, the household shall be eligible to claim an additional 
+subsidy under the current scheme only for the additional 2 kW capacity, i.e. Rs 48,000.  
+v) A rooftop solar installation shall be eligible for CFA only once after installation. If an already 
+installed rooftop solar is shifted/relocated to a new location, such a system shall not be eligible 
+for CFA under the scheme.  
+b) CFA Structure : The scheme will support the installation of grid -connected rooftop solar projects 
+in the residential sector through Central Financial Support (CFA) support from the central 
+government. No CFA will be provided to non -residential segments of consumers (inclu ding 
+government segment, commercial and industrial segment etc.). The Central Financial Assistance 
+for the residential sector shall be as per the following table:  
+
+ 
+6 
+ S. 
+No. Type of Residential Segment  CFA 
+1. Residential Sector (first 2 kWp of RTS capacity or part thereof)  60% of 
+benchmark cost 
+of 2 kWp  
+2. Residential Sector (with additional RTS capacity of 1 kWp or 
+part thereof)  40% of 
+benchmark cost 
+of additional kWp  
+3. Residential Sector (additional RTS capacity beyond 3 kWp)  No additional CFA  
+4. Group Housing Societies/ Residential Welfare Associations 
+(GHS/RWA) etc, for common facilities including EV charging up 
+to 500 kWp (@3 kWp  per house)  As per CFA of S. 
+No. (2) above  
+For GHS/RWAs, the upper limit of CFA supported RTS capacity is inclusive of individual rooftop 
+plants installed by individual residents in the GHS/RWA.  
+The GHS/RWA connection eligible under the scheme shall be dedicated only for common 
+facilities and should not be utilized for provided electricity supply to residential consumers within 
+the GHS/RWA . 
+ 
+c) Benchmark Cost: The benchmark cost for 1 kW system is fixed at ₹ 50,000/kW for the first 2 
+kW of RTS capacity and ₹ 45,000 for the additional kW w ith effect from 13th February, 2024. 
+The benchmark for special category States ( States/U ts of Uttarakhand, Himachal Pradesh, J&K, 
+Ladakh, States in the North East including Sikkim, U ts of A&N and Lakshadweep) will be Rs 
+55,000 for first 2 kW of RTS capacity and Rs 49,500 for the additional kW of RTS capacity.   
+ 
+
+ 
+7 
+ d) The benchmark cost will be revised at the time of midterm review of the programme  to reflect 
+changed market trends, if any, or earlier in case of substantial upward revision in module prices 
+for unforeseen reasons. The benchmark will reflect changes in solar module supply prices, 
+inverter costs and other systems costs as per the method ology defined by the Ministry of New 
+and Renewable Energy.  
+ 
+ 
+e) The CFA for the scheme with effect from date of initiation, i.e., 13th February, 2024 is as follows: - 
+ 
+S. 
+No. Type of Residential Segment  CFA CFA (Special 
+Category States)  
+1. Residential Sector (first 2 kW p of RTS capacity 
+or part thereof)  Rs 30,000/kWp  Rs 33,000/kWp  
+2. Residential Sector (with additional RTS 
+capacity of 1 kW p or part thereof)  Rs 18,000/kWp  Rs 19,800/kWp  
+3. Residential Sector (additional RTS capacity 
+beyond 3 kW p) No additional CFA  No additional CFA  
+4. Group Housing Societies/ Residential Welfare 
+Associations (GHS/RWA) etc, for common 
+facilities including EV charging up to 500 kW p 
+(@3 kW p per house)  Rs 18,000/kWp  Rs 19,800/kWp  
+ To illustrate  
+i. If a consumer installs a system of 1.5 kW, she is eligible for a CFA of ₹ 30,000x 1.5 = ₹ 
+45,000  
+ii. If a consumer installs a capacity of 2.5 kW, she is eligible for a CFA of ₹ 30,000x2 + ₹ 
+18,000x0.5 = ₹ 69,000  
+
+ 
+8 
+ iii. If a consumer installs a capacity of 6 kW, she is eligible for a CFA of ₹ 30,000x2  + 
+Rs18,000x1 = ₹ 78,000  
+iv. If an RWA installs a capacity of 100 kW, with 20 households, it will be eligible for a CFA 
+of ₹ 18,000x60 = ₹ 10,80,000  
+v. If an RWA installs a capacity of 100 kW, with 50 households, it will be eligible for a CFA 
+of ₹ 18,000x100= ₹ 18,00,000  
+f) Additional State Subsidy:  The State/UT governments may supplement the CFA provided by the 
+central government for the residential sector  with an additional subsidy for RTS ; however, this 
+shall be subject to adherence to all scheme guidelines by the State. Such support by the 
+State/UT governments shall be processed through  and integrated with  the National Portal.  
+ 
+6)  Implementation through National Portal  
+a) Consumers undertaking installations through their own in which the capital expenditure in the 
+rooftop solar system has been made by the consumer, either by herself or through assistance 
+of a bank loan and the upfront payment has been made to a registered RTS vendor  directly  shall 
+be considered as projec ts undertaken in the capex mode . All CFA requests  for such projects  
+must be made on the National Portal.  
+b) In case the consumer needs any assistance in applying on the National Portal or during the 
+process of installation, the DISCOMs shall assist the consumer . The DISCOMs shall set up 
+designated helpdesks at all field offices for this purpose.  
+c) The residential sector consumers shall be free to enter into arrangements with RTS vendors at 
+mutually discovered rates . There shall be no tendering or rate discovery by the state 
+DISCOMs/agencies under the scheme to empanel RTS vendors . 
+d) An application shall  meet the following requirements before it is processed for release of the 
+CFA:  
+ 
+
+ 
+9 
+ i. Unique Application ID with tagged Consumer Account Number: The application must be 
+uploaded  on the National Portal  (https://pmsuryaghar.gov.in) with the unique valid Electricity 
+Consumer Account Number (CAN)  of the consumer . The portal will assign the application with 
+a unique application ID.  
+ 
+ii. GPS Tagged Photographs of Pre-Installation Site and Complete d Installation: The photos of  Pre-
+Installation Site and  installed RTS along with geo -coordinates shall  be uploaded on the National 
+Portal . These photos shall be uploaded in alignment with requirements stated in Annexure II.  
+ 
+iii. Meter Installation and Agreement : The m eter shall be  installed by DISCOM after rooftop 
+installation is complete and the DISCOM and the consumer have signed the appropriate 
+metering agreement which must be uploaded on the Portal. The CFA will be processed only 
+after the DISCOM has physically verified the syste m, the appropriate agreements have been 
+signed and the system has been commissioned by the installer after all due approvals of the 
+DISCOM. A model agreement is at Annexure III. In case  of non -metered grid connected 
+installations (behind -the-meter, battery hybrid systems etc.), the DISCOM will inspect the 
+installation a nd  incorporate suitable remarks in the report.   
+iv. DISCOM  Report  (DR) : The DR will be filled by the DISCOM representative and generated through 
+the National Portal digitally. The DR format is shown in Annexure IV.   
+ 
+v. Bank Account Details: All consumer details including bank account information and a cancelled 
+cheque image/bank e -statement file/passbook scan or any other electronic document certifying 
+that the bank account number is held by the concerned consumer must be submitted on the 
+National Portal  by the consumer.  The NPIA shall verify the account information submitted .  
+ 
+
+ 
+10 
+ e) The release of the CFA shall be operationalized through an e -token. The e -token will be 
+generated at the time of application on the National Portal. After the necessary documents 
+have been uploaded and inspection by the DISCOM has been completed, the natio nal 
+programme implementation agency (NPIA) will assess the documents and approve the 
+release of CFA through the e -token, which will be activated with the admissible CFA amount. 
+The e -token will then be redeemed by the consumer after logging in to his/her p rofile on the 
+portal, resulting in transfer of CFA to the consumer.  
+ 
+f) In case the beneficiary has opted for a loan product to finance the rooftop solar installation, the 
+beneficiary profile shall also include the loan account details  (entered by the Consumer or 
+through integration with banking portals) . On redemption of the e -token in such cases,  the CFA 
+will be transferred to the loan account of the beneficiary.  If the CFA exceeds the loan amount 
+drawn by the consumer, the CFA will be disbursed to the consumer's loan account  in the bank  
+up to the amount of loan drawn , with the remainder disbursed into the consumer's bank 
+account.  
+ 
+g) The CFA shall be processed within 15 days of application meeting the requirements specified in 
+para 6(c) .  
+ 
+7) RESCO Model  
+a) This mode includes all installations in which the capital expenditure in the system has been 
+made by a third party other than the consumer, under an arrangement with a renewable energy 
+service company (RESCO). In such installations, the RESCO continues to own the asset, and the 
+roof -owner is compensated by the RESCO in return for the use of their roof. The RESCO sells 
+power either to the household/households  or the DISCOM under a long term contractual 
+arrangement (at least 10 years) under a Power Purchasing  Agreement or PPA.  
+
+ 
+11 
+ b) In case of implementation through the RESCO model, the CFA shall be paid out as  capex 
+subsidy to the entity that is investing into the RTS installation and generating and selling 
+power.  The CFA shall be released after the installation and the commissioning of the RTS 
+systems under the RESCO arrangement. The calculation for the subsid y due shall be based on 
+the size of the installation that is tagged to each consumer under the RESCO arrangement: for 
+example, for a 60 kW rooftop solar installation under RESC O in 10 houses of 2 kW each and 8 
+houses of 5 kW each under RESCO model, the calculation of the subsidy for which the RESCO 
+is eligible shall be done on a per household basis. However, the CFA amount shall be 
+disbursed to the RESCO developer as per scheme guidelines.  
+c) The detailed scheme guidelines pertaining to RESCO model shall be issued separately.  
+ 
+8) National Portal  
+a) The National Portal will provide a seamless and fully integrated experience to prosumers in the 
+residential sector. The portal will be fully integrated with State DISCOM portals for a 
+harmonized experience for consumers in all stages of rooftop installations, including requests 
+for net metering, load sanctions, inspections etc.  
+b) The portal will create a public platform on which other applications, websites, financing 
+intermediaries and e -commerce sites can plug into, through Application Programming  
+Interfaces (APIs) and provide additional services for citizens.  
+c) The portal will be augmented with GIS based services to enable better decision making and 
+visualization of RTS systems for vendors and consumers. The GIS based system planning will 
+also be integrated with PM -Gati Shakti Portal to leverage additional functi onalities and optimize 
+power systems planning.  
+d) The portal will have provisions for national registration of vendors on which vendors will be able 
+to update their product offerings, sharing of system performance data, installation details etc.  
+e) The National Portal will create a transparent and open marketplace for vendors by adding 
+vendor feedback and vendor performance on the porta l. A vendor rating system will be 
+established . 
+
+ 
+12 
+ f) The National Portal will be accessible through apps, chatbots and WhatsApp also, enabling 
+wider outreach to all segments.  The Portal will also generate multi -level triggers for delays in 
+DISCOM inspection and net meter installations and the DISCOMs shall be encouraged to ensure 
+timely commissioning of RTS plants, once the vendors have installed the systems.  
+g) There shall be other value -added activities such as providing basic financial modelling of the 
+proposed system and consumer’s return period, entry of technical parameters of the system.  
+h) The portal will provide integration with banking products offered by various financial 
+institutions and will promote digital -only products for ease of use by the beneficiaries. 
+Integration with Jan Samarth portal shall be done to ensure bidirectional flow of information to 
+and from the National Portal to the respective financial institutions and to ensure tagging of 
+loan account of consumer to the application on National Portal.  
+i) An application shall be kept active on the National Portal for a period of 6 months from the date 
+of application. After 6 months  of inactivity , the applica tion shall be deemed to be dormant . The 
+applicant can reactivate the dormant application at any time through the consumer profile on 
+the National Portal  subject to the overall limit of 1 crore active applications . 
+j) As the scheme is fund limited, the receiving of applications on the National Portal shall be 
+limited to 1 crore active applications  and only these applications shall be considered for release 
+of CFA . Once this limit is reached, active  applications shall be given a time period of 3 months 
+to complete the process as per clause 6(c) ab ove, failing which these applications will be 
+deemed to be dormant and deactivated.  
+k) Applica nt login will be provided on the national portal to undertake relevant activities 
+pertaining to each installation including updating of status of installation, technical 
+specifications of the system installed, grievance redressal, uploading of relevant pictu res (pre 
+and post installation) and other items. The vendor may assist the consumer . The consumer  has 
+the user rights to undertake all activities on the National Portal without relying on the vendor.  
+ 
+9) Vendor Registration  
+a) There shall be a registration of vendors on the National Portal. Vendors shall be registered 
+based on submission of the following documents: - 
+
+ 
+13 
+ i) PAN  
+ii) Key Contact Personnel  
+iii) Documents of Incorporation/Proprietorship/Partnership  
+iv) Key Manpower and Training Credentials   
+v) Declaration as Service Provider by Vendor (Annexure V)  
+vi) Bank Guarantee  
+ 
+b) The registered vendors shall be able to specify their states and districts of operation. . The 
+vendors will have to submit a Bank Guarantee of the following amount  for the initial 
+registration : 
+ 
+Type of registration  Bank Guarantee  
+(Entry Level)  
+State  based  vendor  registration  Rs 2.5 lakh  for each State / UT 
+registered for  
+National Vend or registration  Rs 25 lakh  for all States/UTs  
+ 
+c) Once the vendors have installed a significant capacity  through the National Portal, the bank 
+guarantee requirement will be indexed to the capacity  as follows:  
+ 
+Capacity installed  Bank Guarantee  
+0-200 kW  Existing Initial Bank Guarantee  
+200-1000  kW Rs 15 lakh 
+1000 -5000  kW Rs 50 lakh 
+>5000  kW Rs 1 crore  
+ 
+
+ 
+14 
+ d) The registered vendors shall be able to create their profiles on National Portal, including RTS 
+system specifications offered, prices offered and key contacts for consumers to reach out to. It 
+is also expected that the vendors will respond to interest expressed by consumers in a timely 
+and reasonable manner. The vendor will also specify if they are a capex mode or RESCO 
+developer, and in case of both, create separate profiles for them.  
+ 
+e) The Vendors shall be obligated to provide minimum assured set of services as detailed in 
+Annexure VI and may  offer optional value added services as detailed in Annexure VII.  
+ 
+f) The vendors will be able to respond to expression of interest by beneficiaries, manage their 
+project portfolios, display offered RTS systems with price points, showcase history of completed 
+projects and other attributes for the benefit of the beneficiaries . The vendor profile will also 
+include vendor rating, details about consumer feedback and other data relating to the 
+performance of the vendor on completed/ongoing projects for which they are the designated 
+vendors.  
+ 
+g) The Implementing agency (State DISCOM or agency) or MNRE officials or any other designated 
+agency may inspect the ongoing installation or installed plants. In case the systems are not as 
+per standards, nonfunctional on account of poor quality of installation, or in non -compliance of 
+scheme guidelines, NPIA will reserve the right to deactivate the vendor and de -register it fro m 
+the National Portal registration list as applicable.  
+ 
+10) Technical Specifications  
+a) A Roof Top Solar (RTS) Photo Voltaic (PV) system shall consist of  equipment/components like 
+Solar Photo Voltaic (SPV) modules, Inverter/micro inverters, Module Mounting structures, 
+Energy Meter, Array Junction Boxes, DC Distribution Box, AC Distribution Box, Protections – 
+Earthing, Lightning, Surge, Cables, Drawing & Manuals and any other necessary component 
+based upon the site requirement. The projects under the scheme shall be commissioned as per 
+the technical specifications as published by MNRE ( Detailed  in Annex VII).  
+
+ 
+15 
+  
+b) The vendors shall ensure that the minimum technical specifications as detailed by MNRE as well 
+as those required by extant State regulations are met. The vendor will be solely responsible for 
+any shortcomings or negligence/malpractice which may lead to encashment of bank 
+guarantees, deactivation of profile, blacklisting of the firm/vendor from participation and other 
+possible d isciplinary actions. Any deficiency of the RTS system leading to non -disbursal of 
+CFA/non -commissioning of the RTS by the DISCOM on account of system quality/component 
+issues shall be rectified by the vendor .  
+ 
+c) One requirement for CFA is that  Domestic Modules  manufactured from domestic cells  as per 
+Domestic Content Requirement (DCR)  are used  failing which no CFA shall be disbursed . 
+ 
+d) The Ministry of New and Renewable Energy may notify, from time to time, the approved list of 
+modules and inverters which will be eligible for availing CFA based on minimum specified 
+technical criteria in order to prevent supply  of poor quality equipment by vendors. The vendors 
+must use one of these modules and inverters in all projects being installed under the scheme.   
+ 
+e) The Original Equipment Manufacturers of inverters enlisted under the scheme will also have to 
+share generation data reporting from their systems through API integration with the National  
+Portal. Any data generated and transmitted by these inverter systems should be integrated with 
+the National Portal and shall be utilized to provide better services to the beneficiary through 
+the portal.  
+ 
+f) Registered vendors shall provide the services to the beneficiaries  for repairs/maintenance  of 
+the RTS plant free of cost for 5 years of the Comprehensive Maintenance Contract (CMC) period 
+from the date of commissioning of the plan. Non -performing/ under -performing PV panels will 
+be replaced free of cost in the warranty period.  The beneficiary  shall  be provided with the 
+specified warranties given by  the respective  OEMs on the system components for any future 
+replacement of malfunctioned components . 
+
+ 
+16 
+  
+11) Ensuring Quality of Installations  
+a) The Scheme Implementation Agencies (National Programme  Implementation Agency (NPIA) 
+nationally and State Implementation Agencies (SIA) at State level) as well as other designated 
+agencies by State/UT governments shall conduct regular inspections of RTS systems installed 
+under the scheme, both at the time of commissioning and post commissioning.  
+ 
+b) The NPIA shall  establish  adequate mechanism to ensure independent third party assessment of 
+RTS installations at time of commissioning of at least 1% of installations and post -installation 
+inspection of at least 1% of installed systems.  
+ 
+c) The SIA shall establish adequate mechanism to ensure independent third party assessment of 
+RTS as post -installation inspection of at least 5% of installed systems  annually . At least 5% of DR 
+shall be done in presence of an officer not below rank of AE and at least 1% of DR shall be done 
+in presence of an officer not below rank of EE to ensure quality installations.  
+ 
+d) All the vendors registered on the National Portal shall be given a vendor rating depending on 
+the size and scale of installations done, consumer feedback, reporting of data, physical 
+inspection of quality of workmanship of randomized project sites and other criteria as per 
+separate guidelines that will be notified  by the Ministry. This vendor rating shall be visible to 
+the beneficiaries on the National Portal.  
+ 
+12) Grievance Redressal  
+a) The beneficiaries and vendors can raise grievances through the National Portal that will be 
+channeled for resolution to the State Implementation Agency through a 2 tier escalation matrix. 
+The grievances have to be resolved as per the timelines detailed in Annexure VIII failing  which 
+the grievance will get escalated to the NPIA.  
+b) The NPIA will establish the necessary mechanisms for ensuring that grievances raised on the 
+National Portal are resolved within a period of 30 days.  
+
+ 
+17 
+ c) The beneficiaries and vendors will get regular updates regarding status of grievances through 
+SMSes, emails and other channels of communication.  
+d) The grievances may be raised through the National Call Centre, State/UT DISCOMs, National 
+Portal or the portal app. In each case, a unique tracking ID will be created by the NPIA for the 
+consumer to track the status of resolution of the grievance through an online system.  
+ 
+13) Memorandum of Understanding  
+a) A Memorandum of Understanding (MoU) shall be signed under the scheme between Ministry 
+of New and Renewable Energy and the State/UT Energy Department within 3 months of 
+notification of these guidelines. The Draft MoU between MNRE and the State/UTs is as per 
+Annexure IX.  
+b) Release of funds  under other scheme components (Incentives to DISCOMs, Model Solar Village, 
+Incentives to PRIs/ULBs, Payment Security Mechanism etc.) to State/UTs or entities under the 
+State/UTs shall be conditional to signing of the MoU with the concerned State/UT.  
+c) The MoU will also be essential for allowing the release of additional state/UT subsidy for RTS to 
+beneficiaries under the scheme.  
+ 
+14) Implementation Agency   
+a) REC Limited shall initially be the Implementation Agency at the national level (National 
+Programme  Implementation Agency ( NPIA)) and shall undertake activities relating to operation 
+of the National Portal and registration of vendors at the national level as well as all other 
+scheme related activities. However, MNRE will have the discretion to designate any other 
+agency as the  NPIA as per any exigency.  
+ 
+
+ 
+18 
+ b) The DISCOMs shall be the State Implementation Agencies (SIA) at the State/UT  level . However, 
+State Governments may notify any other agency as an implementation agency. DISCOMs shall 
+ensure adherence to timelines specified for provisioning of services for prosumers and shall 
+coordinate with NPIA on matters pertaining to performance of ve ndors registered on the 
+National Portal , grievance redressal, programme  monitoring at State/UT level and other 
+responsibilities ascribed to it by MNRE from time to time . 
+ 
+c) The primary responsibility of monitoring and reporting will be with the implementing agencies 
+i.e. DISCOMs and NPIA and they may carry out 3rd party inspection through National 
+Monitors/Consultants, for ground verification/performance evaluation on a rando m basis . 
+15) Programme  Monitoring  
+ 
+a) A Group of Ministers (GoM) will provide overall guidance and coordination with States /UTs . 
+ 
+b) A Steering Committee under the chairmanship of Cabinet Secretary and including Secretaries 
+of Ministry of New and Renewable Energy , Department  of Financial Services, Ministry of Power, 
+Ministry of Housing and Urban Affairs and Ministry of Rural Development shall monitor the 
+implementation of the scheme from time to time.  
+ 
+c) The implementation of the scheme shall be overseen by the Mission Directorate in the Ministry 
+of New and Renewable Energy. The Directorate shall be headed by Additional/Joint Secretary 
+in charge of Rooftop Solar and the Directorate shall be authorized to i ssue all 
+instructions/guidelines/frameworks pertaining to the scheme after due approvals.  
+ 
+d) The States/UTs shall constitute a State Level Coordination Committee headed by the Chief 
+Secretary/Administrator and comprising of Secretaries of key departments at the State/UT 
+level.  The Committee shall meet once every three months or more regularly to oversee the 
+implementation of the scheme in the State/UT.  
+ 
+
+ 
+19 
+ e) The States/UTs shall also constitute a District Level Committee headed by the District 
+Magistrate/District Collector and comprising of other members including 2 elected 
+representatives from the Urban Local Bodies/Panchayati Raj Institutions , Lead Bank Manager, 
+Divisional DISCOM official, State Nodal Agency representative in the district (if any) and at least 
+3 non -official members to be nominated by the Mission Directorate . The Committee shall meet 
+once every two months or more regularly to oversee the impl ementation of the scheme in the 
+State/UT.  
+ 
+16) Financing  
+ 
+a) The beneficiaries under the scheme may additionally benefit from lending instruments created 
+for rooftop solar under the scheme. This may include low interest products created specifically 
+for beneficiaries upto 3 kW systems or standardized products for ot her beneficiaries. In both 
+cases, the beneficiary shall enter the details of the beneficiary’s loan account utilized for the 
+rooftop solar installation so that the CFA amount can flow directly into the loan account for 
+prepayment of certain share of the lo an amount.  
+ 
+b) The national portal will be integrated with Jan Samarth portal to channel the applications of 
+beneficiaries under the scheme to apply for loans at the relevant banks. The portal shall also be 
+integrated with any other financial instruments that may be offered by banks or other fi nancial 
+institutions.   
+ 
+c) The banks and other financial institutions will be encouraged to come out with standardized 
+banking products. The standard loan products from the partner Banks /FIs will be published on 
+the portal.  
+ 
+17) Roles of Stakeholders  
+a) Ministry of New and Renewable Energy (MNRE), Government of India  
+
+ 
+20 
+ i) Enlist product lines of modules, inverters (including hybrid/ micro inverters ) and other major 
+system components . 
+ii) MNRE or its designated agency shall collect a bank guarantee of the appropriate amount as 
+notified from time to time from the prospective vendors for their empanelment for the 
+installation of the residential projects through the National Portal .  
+iii) MNRE shall release the eligible performance -linked incentives to DISCOMs based on the 
+performance achieved in the previous financial year.  
+iv) MNRE or any other agency on behalf of MNRE shall conduct the physical inspection of the 
+installed RTS power plants to verify the quality and technical standards. If it is not found to be 
+satisfactory, MNRE may deduct the same percentage of the service char ge as decided by the 
+competent authority.  
+v) MNRE shall be responsible for encouraging large and established players in the renewable 
+energy ecosystem to enter into the residential rooftop solar market.  
+vi) MNRE shall be responsible for establishing a robust vendor rating programme  to recognize high 
+performance vendors with quality installations.  
+ 
+b) National Programme  Implementation Agency  
+The NPIA shall be responsible for the overall implementation of the scheme  (all components)  
+which shall include the following major components: - 
+i) Development, operations and management of the National Portal and its value added features 
+such as GIS planning, integration with Jan Samarth and other portals, integration with DISCOM 
+portals, updation of knowledge portal, skill database integration etc.  
+ii) Development, implementation and monitoring of IEC plans including content and 
+dissemination, grievance redressal  of vendors, DISCOMs and consumers . 
+iii) Sample examination of CFA claims by scrutiny of uploaded photos, GPS location based checks, 
+verification of account details and electricity bill connection details, received through all 
+channels, including portal or directly through DISCOMs, capex or RESCO mode or otherwise . 
+
+ 
+21 
+ iv) Creation of RTS Cell/PMU/PMC for overall programme  implementation or its components 
+within the NPIA or in the Ministry of New and Renewable Energy to assist the Mission 
+Directorate as per the requirements of the Directorate . 
+v) Engagement and collaboration with all stakeholders, including vendor networks, consumers, 
+banks and other financial institutions, multilateral institutions, think tanks for promotion of 
+rooftop solar in general, and residential rooftop solar in particular . 
+vi) Coordination with all government institutions, including Ministries and Departments at central 
+and State government levels, and public sector undertakings for facilitation and monitoring of 
+rooftop installation targets in government sector.  
+vii) Make recommendations to the Ministry on modifications in scheme 
+implementation/guidelines/frameworks/standards/qualifications and any other scheme 
+documents based on implementation feedback.  
+viii) To conduct periodic national, regional and State level workshops with all stakeholders . 
+ix) To receive proposals, applications and requests from State/UT DISCOMs and to assist the 
+mission directorate in disposal of such proposals in alignment with the scheme guidelines . 
+x) To coordinate and engage with other Ministries and Departments and non -government 
+channels such as volunteer networks to popularize the scheme and to generate applications 
+from consumers . 
+xi) To set in place, the necessary mechanisms for third party audits of the scheme, including 
+performance and outcome audits periodically and to set in place mechanism to ensure 
+adequate randomized physical verification of installations to ensure proper perfor mance of 
+vendors and DISCOMs under the schem e. 
+xii) To coordinate with State regulatory commissions to implement rooftop solar -friendly 
+regulations . 
+xiii) Compliance with any other directions given by the Scheme Mission Directorate . 
+ 
+c) State Implementation Agencies  
+
+ 
+22 
+ The SIA shall normally be the DISCOM/Distribution Utility in the State/UT. However, the 
+State government may designate another agency as an additional SIA in order to assist the 
+DISCOM in implementation of the PM Suryaghar Scheme. The roles of SIA shall include:  
+i) Create a dedicated rooftop solar vertical in the DISCOM administrative set up with adequate 
+manpower up to the field level, with clearly defined work profiles and levels of escalation for all 
+issues pertaining to installation of RTS in their area . 
+ii) To map the dedicated manpower to the National Portal or the integrated State portal for 
+channeling of applications for feasibility approval, inspection, net metering and meter 
+installations . 
+iii) To bring timelines relating to service delivery relating to RTS and associated services (name 
+change, load change etc) in alignment with national rules and State level regulations . 
+iv) To develop a time bound grievance redressal mechanism as per the scheme guidelines . 
+v)  To coordinate with State regulatory commission to implement rooftop solar -friendly 
+regulations . 
+vi) To train field level operatives on proper inspection of installed RTS systems prior to 
+commissioning and to update DR on the National Portal  properly for CFA release . 
+vii) To establish and operate IT solutions for tracking of consumer electricity generation and 
+integration with billing systems to regularly update households on financial benefits (including 
+surplus settlement)  
+viii) To  ensure a ready supply chain of net meters, and to expand meter inspection and sealing 
+capacity to address the demand adequately and to ensure zero wait time for net meters for 
+residential consumers . 
+ix) To formulate and implement dedicated State level IEC activities in compliance with scheme 
+guidelines . 
+x) To integrate the National Portal with the DISCOM IT systems and any additional IT systems for 
+rooftop solar being operated by the DISCOM . 
+
+ 
+23 
+ xi) To set in place, the necessary mechanisms for third party audits of the scheme, including 
+performance and outcome audits periodically and to set in place mechanism to ensure 
+adequate randomized physical verification of installations to ensure proper perfor mance of 
+vendors under the scheme . 
+xii) Coordination with all government institutions, including Ministries and Departments at State 
+government levels, and State public sector undertakings for facilitation and monitoring of 
+rooftop installation targets in government sector.  
+xiii) Vetting of CFA claims by onsite inspection, scrutiny of uploaded photos, GPS location based 
+checks, verification of account details and electricity bill connection details, DCR fulfillment and 
+any other conditions established by these guidelines and to upd ate the National Portal 
+accordingly in a timely manner . 
+xiv) Compliance with any other directions given by the Scheme Mission Directorate . 
+ 
+18) Rooftop Solar on Government Building  
+a) All Government rooftops under the administrative control of Central Government 
+Ministries/ Departments , including autonomous bodies, subordinate offices etc. shall be 
+saturated with rooftop solar to the extent possible technically  by 2025 . Ministries may  utilize 
+available rooftop space through the RESCO model or capex mode on a priority basis. Through 
+high levels of automation and energy generation data flows, investment in RESCO models in 
+government rooftops may  be de -risked and enable enforcement and monit oring of contracts 
+without major administrative overheads .  
+b) The Central Public Sector Enterprises with experience in deployment of renewable energy 
+technologies will be allocated on a nomination basis to Central Ministries for assisting these 
+Ministries in deploying rooftop solar on their assets on a priority basis . 
+c) MNRE will monitor and track installations in the Government sector. All Central 
+Ministries/Departments will collate information regarding available potential and expedite 
+coverage to ensure saturation of government assets by 2025. All buildings under Centr al 
+Government shall deploy RTS in mission mode to achieve saturation by 2025. State/UTs shall 
+be encouraged to undertake a similar exercise for RTS saturation in their buildings  
+
+ 
+24 
+ d) Detailed guidelines regarding role of CPSEs and use of payment security mecha nism shall be 
+issued separately.  
+19) Rooftop Solar in Commercial and Industrial and other sectors  
+a) There shall be no CFA for C&I  and other sectors.  
+b) Investment de -risking efforts shall be promoted to enable C&I segment to confidently and easily 
+deploy RTS. These measures will include regulatory recognition of new and innovative business 
+models for RTS, measures proposed include option of single window facility for clearances, if 
+any, encouraging financial institutions and intermediaries to create targeted financial products 
+for RTS (including instruments of partial credit risk guarantee) for MSME segment etc . 
+ 
+20) Non -Subsidized Residential Rooftop Solar  
+ 
+a) Consumers who opt for installing RTS without availing CFA under this scheme, including those 
+who may wish to forgo the RTS CFA (under the “Give It Up” campaign or otherwise) shall be 
+free to do so without using domestically manufactured cells/modules (Domestic Content 
+Requirement or DCR).   
+b) The facility for forgoing CFA under the scheme as a part of the “Give It Up” campaign shall be 
+created on the National Portal. Such consumers w ould  still be able to access all facilities of the 
+National Portal as well as linkages with banks for necessary financial products as per availability. 
+This segment will benefit from non -financial easement of processes and standardized financing 
+products creat ed by banks through the National Portal.  
+ 
+21) Financing  
+ 
+a) It is envisaged that standardized low interest loan products in the range of benchmark rates 
+(Repo + 50 bps) for installation of residential RTS systems that are up to 3 kW in size will be 
+made available to the beneficiaries by Banks.  
+b) These financing options shall be supplemented by standardized products of similar nature for 
+non-subsidized segments also, including residential sector RTS of sizes more than 3 kW.  
+
+ 
+25 
+ 22) Domestic Content Requirement on cells and modules  
+a) The scheme CFA shall be released only for installations in residential sector that use 
+domestically manufactured modules with domestically manufactured cells.  
+ 
+23) Metering Arrangements  
+a) All metering arrangements (net metering, gross metering, net billing, virtual net metering, 
+group net metering etc.) approved by the respective Electricity Regulatory Commissions  of 
+States/UTs shall be covered under the scheme.  
+b) Systems that are not feeding into the grid but are connected to the grid (behind -the-meter 
+systems, battery hybrid systems etc.)  shall be eligible for CFA under the scheme  subject to  
+approval  by the respective Electricity Regulatory Commissions.  
+24)  Technology  
+a) The rooftop solar installation may include additional technology components such as small 
+wind hybrids, battery s torage, solar tracker systems etc. However, the CFA calculation shall be 
+based on the CFA structure under the scheme as per capacity of solar modules installed in the 
+system.  
+ 
+  
+
+ 
+26 
+ Annexures  
+Annexure I   
+Applicability of the CFA  for applications on the National Portal   
+ 
+Application  received  under Phase II rooftop solar programme  (before 13th Feb 2024)  
+Sr. No  Parameter  Applicable Subsidy  
+1 First instance of claims submission 
+before 5th Jan  Rs. 14,588/kW for upto 3 kW capacity and 
+thereafter Rs. 7,294/kW till 10kW capacity  
+(Subsidy prevailing before revision on 
+05.01.2024)  
+2 First instance of claims submission on 
+and after 5th Jan  Rs. 18,000/kw for upto 3kW capacity and 
+thereafter Rs. 9,000/kw till 10kW capacity  
+(revised subsidy as per notification dated 
+05.01.2024)  
+Note:  all applications received prior to launch of PM - Surya Ghar : Muft Bijli Yojana ( before 13th 
+Feb 2024 shall be covered under the Phase II rooftop solar programme ) and shall be eligible for 
+the CFA as indicate above.  All applications submitted under the Phase II of rooftop solar 
+programme  shall be admissible for CFA if the claim is received till October 2024. The claims 
+received after October 2024 will not be entertained . 
+Application received under PM - Surya Ghar : Muft Bijli Yojana (on and after 13th Feb 2024)  
+1 All applications made on and after 13th 
+Feb 60% of benchmark cost upto 2 kW capacity 
+and 30% for 1 kW additional capacity. No 
+subsidy beyond 3 kW.  
+(as approved under PM -Surya Ghar: Muft 
+Bijli Yojana)  
+ 
+
+ 
+27 
+ The CFA claims from installations undertaken in tender mode by respective 
+DISCOMs/implementation agencies under previous programme s for Rooftop Solar shall be 
+considered under the guidelines of the respective programme s and not PM Suryaghar. The CFA 
+calculation shall also be as per the respective programme  guidelines.  
+  
+
+ 
+28 
+ Annexure II  Photographs  
+ 
+  Photograph requirements  
+1. Photograph with all installed modules clearly viewed 
+(front view or side/ isometric view  of the installation)   
+2. Photograph of the safety devices such as earthing, LA and 
+surge protection devices installed   
+3. Photograph of the net metering devices / net meter or 
+solar generation meter (generation units /kW produced 
+should be clearly visible in the photograph)   
+4. Photograph of the Beneficiary with overall RTS 
+installation (aesthetic view of installation quality is visible)   
+
+ 
+29 
+ Annexure III  Net meter Model Agreement  
+Net Metering Connection Agreement  
+   
+  
+This Agreement is made and entered into at (location) …………….. on this (date) …………….. day  
+of (month) …………………. (year) …………… between the Eligible Consumer (Name) …………… having 
+premises at (address) ……………… and Consumer No. ……………… as the first Party,  
+  
+AND  
+  
+The Distribution Licensee ………………………………. (hereinafter referred to as 'the Licensee') and 
+having its Registered Office at (address) …………………………………. as second Party of this 
+Agreement.  
+  
+Whereas, the Eligible Consumer has applied to the Licensee for approval of a Net Metering 
+Arrangement under the provisions of the (State Guidelines reference name) 
+……………………………………………………. and subsequent amendments and sought its connectivity to 
+the Licensee' s Distribution Network.  
+  
+And whereas, the Licensee has agreed to provide Network connectivity to the Eligible Consumer 
+for injection of electricity generated from its Roof -top Renewable Energy  
+Generating System of …………….. kilowatt (kW)  
+Both Parties hereby agree as follows: -  
+  
+1. Eligibility :  
+  
+
+ 
+30 
+ The Roof -top Renewable Energy Generating System meets the applicable norms for being 
+integrated into the Distribution Network, and that the Eligible Consumer shall maintain the 
+System accordingly for the duration of this Agreement.  
+  
+2. Technical and Inter -connection Requirements :  
+  
+2.1. The metering arrangement and the inter -connection of the Roof -top Renewable Energy 
+Generating System with the Network of the Licensee shall be as per the provisions of the Net 
+Metering Regulations and the technical standards and norms specified by the Central Electricity 
+Authority for connectivity of distributed generation resources and for the installati on and 
+operation of meters.  
+  
+2.2. The Eligible Consumer agrees that he shall install, prior to connection of the Roof -top 
+Renewable Energy Generating System  to the Network of the Licensee, an isolation device (both 
+automatic and in built within inverter and external manual relays); and the Licensee shall have 
+access to it if required for the repair and maintenance of the Distribution Network.  
+  
+2.3. The Licensee shall specify the interface/inter -connection point and metering point.  
+  
+2.4. The Eligible Consumer shall furnish all relevant data, such as voltage, frequency, circuit breaker, 
+isolator position in his System, as and when required by the Licensee.  
+ 
+2.5. All the equipment connected to Network of the Licensee at the time of installation shall be 
+compliant with the Technical Specifications for rooftop system as Published by MNRE.  
+  
+3. Safety :  
+  
+
+ 
+31 
+ 3.1. The consumer shall comply with the Central Electricity Authority (Measures Relating to Safety 
+and Electricity Supply) Regulations 2010  
+ 
+3.2. The equipment connected to the Licensee's Distribution System shall be compliant with 
+relevant International (IEEE/IEC) or Indian Standards (BIS), as the case may be, and the 
+installation of electrical equipment shall comply with the requirements specified  by the Central 
+Electricity Authority regarding safety and electricity supply.  
+  
+3.3. The design, installation, maintenance and operation of the Roof -top Renewable Energy 
+Generating System  shall be undertaken in a manner conducive to the safety of the Roof -top 
+Renewable Energy Generating System  as well as the Licensee's Network.  
+  
+3.4. If, at any time, the Licensee determines that the Eligible Consumer's Roof -top  Renewable 
+Energy Generating System is causing or may cause damage to and/or results in the Licensee's 
+other consumers or its assets, the Eligible Consumer shall disconnect the Roof -top Renewable 
+Energy Generating System  from the distribution Network upon direction from the Licensee and 
+shall undertake corrective measures at his own expense prior to re -connection.  
+  
+3.5. The Licensee shall not be responsible for any accident resulting in injury to human beings or 
+animals or damage to property that may occur due to back - feeding from the Roof -top 
+Renewable Energy Generating System  when the grid supply is off. The Licensee may disconnect 
+the installation at any time in the event of such exigencies to prevent such accident.  
+  
+4. Other Clearances and Approvals :  
+  
+The Eligible Consumer shall obtain any statutory approvals and clearances that may be required, 
+such as from the Electrical Inspector or the municipal or other authorities, before connecting 
+the Roof -top Renewable Energy Generating System  to the distribution Network.  
+  
+
+ 
+32 
+ 5. Period of Agreement, and Termination :  
+  
+This Agreement shall be for a period for 25 years, but may be terminated prematurely.   
+(a) By mutual consent; or  
+(b) By the Eligible Consumer, by giving 30 days' notice to the Licensee.  
+(c) By the Licensee, by giving 30 days' notice, if the Eligible Consumer breaches any terms of this 
+Agreement or the provisions of the Net Metering Regulations and does not remedy such breach 
+within 30 days, or such other reasonable period as may be provided, of receiving notice of such 
+breach, or for any other valid reason communicated by the Licensee in writing.  
+  
+6. Access and Disconnection:   
+  
+6.1. The Eligible Consumer shall provide access to the Licensee to the metering equipment and 
+disconnecting devices of Roof -top Renewable Energy Generating System , both automatic and 
+manual, by the Eligible Consumer.  
+  
+6.2. If, in an emergent or outage situation, the Licensee cannot access the disconnecting devices of 
+the Roof -top Renewable Energy Generating System , both automatic and manual, it may 
+disconnect power supply to the premises.  
+  
+6.3. Upon termination of this Agreement under Clause 5, the Eligible Consumer shall disconnect the 
+Roof -top Renewable Energy Generating System  forthwith from the Network of the Licensee.  
+  
+7. Liabilities :  
+  
+7.1. The Parties shall indemnify each other for damages or adverse effects of either Party's 
+negligence or misconduct during the installation of the Roof -top Renewable Energy Generating 
+System , connectivity with the distribution Network and operation of the System.  
+  
+
+ 
+33 
+ 7.2. The Parties shall not be liable to each other for any loss of profits or revenues, business 
+interruption losses, loss of contract or goodwill, or for indirect, consequential, incidental or 
+special damages including, but not limited to, punitive or exemplar y damages, whether any of 
+these liabilities, losses or damages arise in contract, or otherwise.  
+  
+8. Commercial Settlement :  
+  
+8.1. The commercial settlements under this Agreement shall be in accordance with the Net 
+Metering Regulations.  
+  
+8.2. The Licensee shall not be liable to compensate the Eligible Consumer if his Rooftop  Renewable 
+Energy Generating System  is unable to inject surplus power generated into the Licensee's 
+Network on account of failure of power supply in the grid/Network.  
+  
+8.3. The existing metering System, if not in accordance with the Net Metering Regulations, shall be 
+replaced by a bi -directional meter (whole current/CT operated) or a pair of meters (as per the 
+definition of 'Net Meter' in the Regulations), and a separate gene ration meter may be provided 
+to measure Solar power generation. The bi -directional meter (whole current/CT operated) or 
+pair of meters shall be installed at the inter -connection point to the Licensee's Network for 
+recording export and import of energy.  
+  
+8.4. The uni -directional and bi -directional or pair of meters shall be fixed in separate meter boxes in 
+the same proximity.   
+  
+9. Connection Costs:  
+  
+The Eligible Consumer shall bear all costs related to the setting up of the Roof -top Renewable 
+Energy Generating System , excluding the Net Metering Arrangement costs.  
+  
+
+ 
+34 
+ 10. Dispute Resolution:  
+  
+10.1. Any dispute arising under this Agreement shall be resolved promptly, in good faith and in an 
+equitable manner by both the Parties.  
+  
+10.2. The Eligible Consumer shall have recourse to the concerned Consumer Grievance Redressal 
+Forum constituted under the relevant Regulations in respect of any grievance regarding billing 
+which has not been redressed by the Licensee.  
+  
+In the witness where of …………… (name) for and on behalf of Eligible Consumer and Shri. 
+……………….. (name) for and on behalf of Licensee agree to this agreement.  
+  
+  
+Signed by  
+ 
+ 
+…………………………………                                                                        ……………..………………  
+(First Party)                                                                                                 (Second Party)  
+ 
+Witnesses:                
+  
+  
+1) Signature with Name and Address:                                               2) Signature with Name and Address 
+   
+ 
+……………………………………                                                   ……………………………………  
+……………………………………                                                   ……………………………………  
+……………………………………                                                   ……………………………………   
+
+ 
+35 
+ Annexure IV  DISCOM  Report  
+Consumer Details  
+Name of the Applicant   
+Consumer Account Number   
+Aadhar Card Number   
+Address   
+Mobile Number   
+GPS Coordinates   
+Metering Arrangement Type  Net meter / Gross 
+meter / Net billing  
+DISCOM Details  
+Name of the DISCOM   
+Name of the DISCOM Nodal Person   
+Designation   
+Mobile Number   
+Vendor Details  
+Name of the Company   
+Name of the Contact person   
+Designation of the Contact person   
+Mobile Number   
+Inspection Details  
+Date of Inspection  Click or tap to enter a 
+date.  
+Time of Inspection  HH/MM  
+Rooftop solar capacity as per application (kWp)   
+Rooftop solar capacity actually installed (kWp)   
+Module Configuration   
+Module OEM Details   
+
+ 
+36 
+ Module Type   
+Module id   
+Inverter OEM   
+Inverter Type   
+Inverter Capacity (AC) Nominal output power   
+Inverter ID   
+Meter id   
+DISCOM Check list  
+Copy of electricity bill has been uploaded             ☐No        ☐Yes 
+Geo-coordinates have been uploaded             ☐No        ☐Yes 
+Photos of installed RTS has been uploaded             ☐No        ☐Yes 
+Net meter has been installed             ☐No        ☐Yes 
+Commissioning inspection of the RTS is completed             ☐No        ☐Yes 
+Bank account information and a cancelled cheque image has been 
+uploaded             ☐No        ☐Yes 
+Solar modules are installed as per the DCR requirement             ☐No        ☐Yes 
+Inverter has capability to send generation data online             ☐No        ☐Yes 
+DCR undertaking is verified & uploaded             ☐No        ☐Yes 
+DISCOM report  signed by the  DISCOM official has been uploaded             ☐No        ☐Yes 
+Quality Check  
+Building Safety (LA and earthing separate from equipment 
+earthing)             ☐No        ☐Yes 
+Equipment Safety (RTS plant earthing)             ☐No        ☐Yes 
+DCR equipment (domestically manufactured modules and cells)             ☐No        ☐Yes 
+Manufacturing, design and workmanship warranty for a minimum 
+period of 5 years             ☐No        ☐Yes 
+Certified and tested Meter has been installed             ☐No        ☐Yes 
+
+ 
+37 
+ Equipment compliant to basic technical standards as per: 
+https://pmsuryaghar.gov.in/pdf/Technical_Specifications_np.pdf .            ☐No        ☐Yes 
+Declaration  
+DISCOM certifies that the inspection is conducted and the RST is 
+compliant to the guideline of MNRE             ☐No        ☐Yes 
+Consumer certifies that he/she has not taken benefits of any prior 
+CFA for the rooftop project on the address mentioned in the 
+report.             ☐No        ☐Yes 
+Vendor certifies that the work of installation is carried out in 
+compliance with the guidelines of MNRE             ☐No        ☐Yes 
+Photograph requirements  
+1. Photograph with all installed modules clearly viewed (front view  
+or side/ isometric view  of the installation )  
+2. Photograph of the safety devices such as earthing, LA and surge 
+protection devices installed   
+
+ 
+38 
+  
+The above system is as per BIS / MNRE specifications and has been checked for its performance 
+on Click or tap to enter a date.  and it is working satisfactorily.  
+Signature of the Nodal Officer with Stamp  
+ 
+  3. Photograph of the net metering devices / net meter or solar 
+generation meter (generation units /kW produced should be 
+clearly visible in the photograph)   
+4. Photograph of the Beneficiary with overall RTS installation 
+(aesthetic view of installation quality is visible)   
+
+ 
+39 
+ Annexure V  Format of Declaration from Vendor  
+  
+
+
+ 
+40 
+ Annexure VI  Part A (Minimum Assured Services)  
+S.No.  Services Name  
+1.  DCR equipment (domestically manufactured modules and cells)  
+2.  List of equipment and compliance to basic technical standards as per: 
+https://pmsuryaghar.gov.in/pdf/Technical_Specifications_np.pdf . 
+3.  Trained Professionals for undertaking installation  
+4.  Mounting Structure capable of withstanding wind load as per required standard 
+and compliance with IS875 Part 3  
+5.  Equipment Safety (RTS plant earthing)  
+6.  Building Safety (LA and earthing separate from equipment earthing)  
+7.  User Manuals for equipment  
+8.  Maintenance schedule (preventive and corrective) and methodology  
+9.  Scheme Logo on the rooftop solar equipment like modules etc.  
+10.  Project Commissioning Report  
+11.  Manufacturing, design and workmanship warranty for a minimum period of 5 years  
+12.  Free of cost comprehensive maintenance contract (CMC) including warranty for 5 
+years period from the date of commissioning  
+13.  Retrofitting or grouting on the rooftop if required as per roof condition  
+ 
+  
+
+ 
+41 
+ Annexure VII  Part B (Optional Value added services)  
+S. No.  Services Name  
+1.  GIS based design  
+2.  Customized design as per the requirement of the consumer  
+3.  Calculator / estimation for rooftops solar system (RTS) generation and returns/ 
+savings calculations  
+4.  Data base maintenance for the consumers  
+5.  On request generation data (inverter or online)  
+6.  Module cleaning system operation methodology  
+7.  Weather monitoring system (irradiation sensor, temperature sensor)  
+ 
+  
+
+ 
+42 
+ Annexure VIII  Technical specifications  
+Solar PV Module / Panel Technical Specifications  
+IEC 61215 and IS 
+14286  Design Qualification and Type Approval for Crystalline Silicon 
+Terrestrial Photovoltaic (PV) Modules  
+IEC 61701:2011  Salt Mist Corrosion Testing of Photovoltaic (PV) Modules  
+IEC 61853 - 1:2011 /  
+IS 16170 -1:2014  Photovoltaic (PV) module performance testing and energy rating 
+–: Irradiance and temperature performance measurements, and 
+power Rating.  
+IEC 62716  Photovoltaic (PV) Modules – Ammonia (NH3) Corrosion Testing (as 
+per the site condition like dairies, toilets etc)  
+IEC 61730 -1,2  Photovoltaic (PV) Module Safety Qualification – Part 1:  
+Requirements for Construction, Part 2: Requirements for Testing  
+IEC 62804  
+  Photovoltaic (PV) modules – Test method for detection of potential 
+induced degradation. IEC 62804 -1: Part 1: Crystalline Silicon  
+Solar PV Inverters  
+IEC 62109 or IS : 
+16221  Safety of power converters for use in photovoltaic power systems 
+– Part 1: General requirements, and Safety of power converters 
+for use in photovoltaic power systems  
+Part 2: Particular requirements for inverters. Safety compliance 
+(Protection degree IP 65 or better for outdoor mounting, IP 54 
+or better for indoor mounting)  
+IS/IEC 61683 latest  Photovoltaic Systems – Power conditioners: Procedure for  
+(as applicable)  Measuring Efficiency (10%, 25%, 50%, 75% & 90 -100% Loading 
+Conditions)  
+IEC 60068 -2 /IEC 62093  
+(as applicable)  Environmental Testing of PV System – Power Conditioners and 
+Inverters  
+IEC 62116:2014/ IS16169   Utility -interconnected photovoltaic inverters - Test procedure of 
+islanding prevention measures  
+
+ 
+43 
+ Fuses   
+IS/IEC 60947 (Part 1, 2 & 
+3), EN 50521   General safety requirements for connectors, switches, circuit 
+breakers (AC/DC):  
+1)Low -voltage Switchgear and Control -gear, Part 1: General rules  
+2)Low -Voltage Switchgear and Control -gear, Part 2: Circuit 
+Breakers  
+3)Low -voltage switchgear and Control -gear, Part 3: Switches, 
+disconnectors switch -disconnectors and fuse -combination units 4) 
+EN 50521: Connectors for photovoltaic system -Safety 
+requirements and tests  
+  
+IEC 60269 -6:2010  Low-voltage fuses - Part 6: Supplementary requirements for fuse 
+links for the protection of solar photovoltaic energy systems  
+Solar PV Roof Mounting Structure  
+IS 2062/IS 4759/AA6063  
+T6  Material for the structure mounting  
+Surge Arrestors  
+BFC 17 -102:2011/ NFC 
+102:2011/ IEC 62305   Lightening Protection Standard  
+IEC 60364 -5-53/ IS 
+15086 -5 (SPD)  IEC 
+61643 - 11:2011  Electrical installations of buildings - Part 5 -53: Selection and 
+erection of electrical equipment - Isolation, switching and control 
+Low-voltage surge protective devices - Part 11: Surge protective 
+devices connected to low -voltage power systems - Requireme nts 
+and test methods  
+Cables   
+IEC 60227/IS 694, IEC  
+60502/IS 1554 (Part 1 &  
+2)/ IEC69947 (as 
+applicable)   General test and measuring method for PVC (Polyvinyl chloride) 
+insulated cables (for working voltages up to and including 1100 
+V, and UV resistant for outdoor installation)  
+
+ 
+44 
+  
+• The rooftop solar system should be installed on rooftops/terraces or elevated 
+structures. In case of elevated structure, a minimum ground clearan ce of 8  feet must be 
+provided in order to be considered eligible for the CFA under the scheme.  
+• It is advised that the module capacity shall not be greater than 20% of the inverter 
+capacity    
+BS EN 50618  Electric cables for photovoltaic systems (BT(DE/NOT)258), mainly 
+for DC Cables  
+Earthing /Lightning  
+IEC 62561/IEC 60634 
+Series  
+(Chemical earthing) (as 
+applicable)  IEC 62561 -1: Lightning protection system components (LPSC) -  
+Part: Requirements for connection components  
+IEC 62561 -2: Lightning protection system components (LPSC) –  
+Part 2: Requirements for conductors and earth electrodes  
+IEC 62561 -7: Lightning protection system components (LPSC) - Part 
+7: Requirements for earthing enhancing compounds  
+Junction Boxes  
+IEC 60529  Junction boxes and solar panel terminal boxes shall be of the 
+thermo - plastic type with IP 65 or better protection for outdoor 
+use, and IP 54 or better protection for indoor use  
+
+ 
+45 
+ Annexure IX  Types of Grievance  
+For Grievances received through National Portal , the grievance is automatically allocated to the concerned nodal officer depending 
+upon category,  there are two levels of escalation: Level 1 and Level 2. The submitted grievance is forwarded to the Level 1 Grievance 
+Officer for review and resolution. Co ncerned officials assess the grievance, gather additional information if necessary, and determine 
+the appropriate course of action. In case of no response by Level 1 officer within 7 days,  the ticket gets auto matically flagged to Level 
+2 officer.  
+ 
+ 
+ 
+ 
+For Grievances received through the call center, call center would act as Level 0 officer, after which the grievance could be  passed 
+on to Level 1 in case the problem is not resolved within 24 hours . The submitted grievance is forwarded to the Level 1 Grievance 
+Officer for review and resolution. Concerned officials assess the grievance, gather additional information if necessary, and determine 
+the appropriate course of action. In case of no response by Level 1 officer within 7 days , the ticket gets automati cally flagged to Level 
+2 officer.  
+ 
+ 
+ 
+ 
+ Consumer logs 
+grievanceLevel 1 Redressal –
+7 daysLevel 2 Redressal –
+7 days
+Consumer logs 
+grievanceLevel 0 Redressal 
+–24 hrsLevel 1 Redressal 
+–7 daysLevel 2 Redressal 
+–7 days
+
+ 
+46 
+ Throughout the process, users receive updates on the status of their grievance via the online portal, email, or SMS. Official s 
+communicate with users to provide updates, seek additional information if required, and inform them of the resolution outcome . 
+ 
+Basic Categorization of Grievances  
+
+ 
+47 
+ Category  Sub Category  Conflict Classification  Level 1  Level 2  
+Policy  - Subsidy eligibility  
+o Category of consumer  
+o Size of system  
+o Date of application/installation  
+o Occupation/ownership of premises  
+o Placement of RTS system (in spaces except 
+rooftop)  
+- State subsidy details  
+- Net metering / Gross metering policies  Consumer – Central Govt.  MNRE  MNRE  
+Registration 
+and Login (IT 
+issue)  - Unable to Register  
+- Consumer Not Found  
+- Portal freezing/unresponsive  
+- Captcha Issue  
+- OTP not received  
+- Website slow to load  
+- Consumer already registered  Consumer – Central Govt.  NIC MNRE  
+
+ 
+48 
+ Application 
+Process (IT 
+issue)  - Consumer details not fetched/incomplete  
+- Unable to upload electricity bill  
+- Unable to find Division  
+- Unable to find Sub -division  
+- Application not passed on to Discom  
+- Application errors by consumer  
+o Correction/editing requests  
+o Application deletion requests  
+- Change of ownership/electricity connection 
+details  Consumer – Central Govt.  NIC MNRE  
+Discom Issues  - Delay in feasibility  
+- Delay in net metering  
+- Delay in commissioning  
+- Incorrect metering and billing  Consumer - DISCOM  Discom  REC/MNRE  
+(Detailed 
+redressal 
+mechanism to 
+be discussed 
+and finalized)  
+Subsidy Related  - Delays in disbursement  
+- Incorrect subsidy amount  
+- Bank details submission  Consumer – Central Govt.  REC REC/MNRE  
+
+ 
+49 
+ Vendor Related  - Unable to find a vendor  
+- Vendor not responding  
+- Delay in installation  
+- Maintenance not provided  
+- Quality issue  
+- System performance issue  
+- Asking for extra charges  
+- Fraudulent practice  
+- System not eligible for subsidy (Domestic Content 
+Requirement not followed)  Consumer - Vendor  Discom  REC/MNRE  
+(Detailed 
+redressal 
+mechanism to 
+be discussed 
+and finalized)  
+Customer 
+Service, 
+Communication 
+and Social 
+Media  - Responsiveness of Call centre  
+- Grievance Management System  
+- No response from nodal official  
+- Delay in addressing queries and complaints  
+- Grievances posted on Social Media platforms  Consumer – Central Govt.  MNRE  MNRE  
+ 
+ 
+ 
+
+ 
+50 
+ Annexure X  Draft MoU between MNRE and the State/UTs  
+ 
+Memorandum of Understanding (MoU) Between: The Ministry of New and Renewable Energy 
+(MNRE), Government of India and  _____( Name of the State /UT)  
+ 
+Preamble:  
+This Memorandum of Understanding (MoU) is entered into on this [DD/MM/YYYY], between 
+the Ministry of New and Renewable Energy (MNRE), Government of India, and the State/UT 
+Government of _____  
+Recitals:  
+WHEREAS, MNRE is entrusted with the responsibility of promoting and developing renewable 
+energy sources, including solar energy, in India.  
+AND WHEREAS, MNRE is implementing PM - Surya Ghar: Muft Bijli Yojana (hereinafter referred 
+to as “The Scheme”).  
+AND WHEREAS, REC Limited has been designated as the overall National Programme  
+Implementing Agency (NPIA) for the PM  - Surya Ghar: Muft Bijli Yojana.  
+AND WHEREAS, the Government of (State/UT name) and their agencies/departments, 
+especially electricity distribution companies (Discoms) & State Nodal Agency (SNA) for 
+renewable energy, have a crucial role in the successful implementation of the PM -Surya Gh ar: 
+Muft Bijli Yojana at ground  level . 
+AND WHEREAS, both MNRE and the Government of (State/UT name) recognize the need to 
+collaborate to accelerate the deployment of grid -connected rooftop solar under this scheme.  
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, 
+both parties agree as follows:  
+Objectives:  
+
+ 
+51 
+ To promote the installation of grid -connected rooftop solar systems in the residential sector 
+within the geographical jurisdiction of State, and to that conduct public awareness, outreach 
+activities, and capacity -building initiatives to promote their adopt ion; 
+To set ambitious rooftop solar targets for the Government, commercial, and industrial (C&I), as 
+well as residential sectors and establish robust high -level monitoring mechanisms for 
+overseeing the progress of the implementation of this scheme.  
+To strengthen Discoms for rooftop solar implementation by identifying dedicated manpower 
+for this programme , undertake efforts to enhance the rooftop solar vendor base in respective 
+states/UTs and create a positive regulatory environment for grid -connected rooftop solar 
+power into the electricity grid, ensuring the efficient and sustainable use of solar energy  
+Responsibilities of MNRE : 
+Policy & Regulations Support: MNRE will provide guidance/inputs/recommendations to update 
+existing policy and regulations to DISCOM/SNA/Designated State Department/Agency  
+Technical Assistance: MNRE will collaborate with DISCOM/SNA/designated state department 
+for technical standards and guidelines assistance for grid -connected rooftop solar installations.  
+Financial Support: MNRE shall provide financial support in line with the guidelines of the PM -
+Surya Ghar: Muft Bijli Yojana.  
+National Portal: MNRE shall be responsible for the Development and management of the 
+National Portal.  
+Responsibilities of State / UT Government  
+The State Government agrees to implement the Scheme and to that end shall ensure  
+1) Adherence to Scheme Guidelines: The State /UT Government shall ensure adherence to 
+the scheme guidelines in their entirety including the use of the scheme name  
+
+ 
+52 
+ 2) Regulations:  The State /UT Government shall ensure that the processes, State/UT level 
+Standard Operating Procedures and regulatory provisions are at least in alignment with the 
+provisions of Electricity (Right of Consumers) Rule 2020 and its amendments thereof and in 
+alignment with the guidelines of the Scheme.  
+3) Service Time Lines: The State/UT government shall ensure that time -bound services are 
+provided to consumers for RTS for critical services such as technical feasibility, inspection, 
+commissioning, net meter supply and signing of Net Metering agreements.  
+4) IEC Activities: The State /UT Government shall undertake public awareness campaigns as 
+per the IEC plan of the Scheme and shall ensure adherence to Scheme IEC guidelines.  
+5) Additional Subsidy: The State /UT Government may provide additional subsidy on top of 
+the Central financial assistance , however this will be subject to adherence to all scheme 
+guidelines and routing of additional subsidy through the National Portal. A ny alteration to the 
+Scheme framework must be duly approved by the Scheme Mission Directorate.  
+6) Coordination: The State /UT shall coordinate with National Programme  Implementations 
+Agency for the successful implementation of the PM Surya Ghar: Muft Bijli Yojana.  
+7) Monitoring of the Scheme: The State /UT Government shall constitute a State Level 
+Steering Committee headed by the Chief Secretary of the State/UT and District Level 
+Committee s for the monitoring of the scheme.  
+8) IT Integration: The State /UT Government shall coordinate in the integration of the State 
+Portal API with the National Portal for sharing of relevant data relating to rooftop solar 
+installations.  
+9) Vendor Registration: The State /UT DISCOM shall may register the vendors operating 
+within their respective State. The vendor is here by permitted to get registered to any DISCOM 
+of the State /UT, in case of multiple DISCOMs operating in that State /UT and that no DISCOM 
+shall refuse to cater their demand for registration.  
+
+ 
+53 
+ 10) Declaration of Target: The State /UT Governments may declare short medium and long 
+term targets for rooftop solar systems across all sectors.  
+11) Formation of RTS cell: The State /UT Government shall create a dedicated RTS cell for the 
+purpose of monitoring and coordination with the NPIA and Ministry.  
+Cooperation:  
+MNRE and States will collaborate on projects, research, and initiatives aimed at improving the 
+distribution sector and accelerating the deployment of grid -connected rooftop solar systems.  
+Both parties will engage in regular meetings, discussions, and information sharing to ensure the 
+effective implementation of this MoU.  
+Funding:  
+Funding for grid -connected rooftop solar projects and initiatives under this MoU will be 
+determined through separate agreements or funding mechanisms as mutually agreed upon by 
+MNRE and S tate. 
+Duration:  
+This MoU shall come into effect on the date of signing and shall remain in force for a period of 
+[Specify Term], unless terminated by mutual consent.  
+Amendment:  
+Any amendment or modification to this MoU shall be made in writing and will require the 
+consent of both parties.  
+ 

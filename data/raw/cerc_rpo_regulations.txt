@@ -1,0 +1,464 @@
+1 
+ CENTRAL ELECTRICITY REGULATORY COMMISSION  
+NEW DELHI  
+ 
+No. RA-14026(11)/1/2022 -CERC                   Date:  9th May, 2 022  
+ 
+NOTIFICATION  
+No. RA-14026(11)/1/2022 -CERC:  In exercise of powers conferred under sub -section (1) of 
+Section 178 and Section 66  read with clause (y) of sub -section (2) of Section 178 of the Electricity 
+Act, 2003 and all other powers enabling it in this behalf, and after previous publication, the 
+Central Electricity Regulatory Commission hereby makes the following regulations for t he 
+development of market in power from renewable e nergy sources through  renewable energy 
+certificates:  
+ 
+1. Short title and commencement  
+1. These Regulations may be called the Central Electricity Regulatory Commission 
+(Terms and Conditions for Renewable Energy C ertificate s for Renewable Energy 
+Generation) Regulations, 202 2. 
+2. These Regulations shall come into force from such date as may be notified by the 
+Commission in the Official Gazette.   
+ 
+2. Definition  
+(1) In these Regulations, unless the context otherwise  requires,  
+a) ‘Act’ means  the Electricity  Act, 2003  (36 of 2003);  
+b) ‘Central  Agency ’ means the agency as referred to in  Regulation 3 of these 
+regulations;  
+c) ‘Certificate ’ means the renewable energy certificate issued by the Central 
+Agency in accordance with these regulation s; 
+
+2 
+ d) ‘Certificate Multiplier’ means the multiplier as determined under  Regulation 
+12 of these regulations ; 
+e) ‘Commission ’ means the Central Electricity Regulatory Commission referred to 
+in sub-section  (1) of Section 76 of the  Act; 
+f) ‘complete application’ means the application complete in all respects in the 
+format as may be stipulated in the Detailed Procedure ; 
+g) ‘Detailed Procedure’  means  the procedure issued  by the Central Agency 
+under these regulations;  
+h) ‘eligible entity ’ means an entity eligible for issuance  of Certificates under 
+these  regulations;  
+i) ‘Grid Code’ means means the Grid Code specified by the Commission under 
+clause (h) of sub -section (1) of Section 79 of the Act ; 
+j) ‘National Load Despatch Centre’ means the National Load Despatch  Centre 
+established under sub-section (1) of Section 26 of the Act;  
+ 
+k) ‘obligated entity ’ means an entity for which the State Commission has 
+specified requirement under clause (e) of sub -section (1) of Section 86 of the Act to 
+fulfil the renewable purchase  obligation;  
+l) ‘Power Exchan ge’ means a power exchange as defined  under  sub-clause  (as) 
+of clause  (1) of Regulation 2 of the Central Electricity Regulatory Commission (Power 
+Market) Regulations, 2021 ; 
+m) ‘REC Regulations, 2010’ means  the Central Electricity Regulatory 
+Commission (Terms and Conditions for Recognition and Issuance of Renewable 
+Energy Certificate for Renewable Energy Generation) Regulations, 2010, as amended 
+from time to time ; 
+n) ‘Regional Load Despatch Centre’ or ‘RLDC’ means the Regional Load 
+Despatch Centre established under sub-section (1) of Section 27 of the Act;   
+
+3 
+ o) ‘registration’ means registration of eligible entities by the Central agency for the 
+purpose of issu ance of Certificates ; 
+p) ‘renewable energy sources ’ means sources of renewable energy  such as 
+hydro, wind, solar including its integration with combined cycle, biomass, bio fuel 
+cogeneration, urban  or municipal  waste  and such other  sources  as recognized  or approved  
+by the Central Government ; 
+q) ‘renewable purchase obligation ’ or ‘RPO’  means the requirement specified 
+by the State Commissions under clause (e) of sub-section (1) of Section 86 of the Act 
+for an entity to purchase electricity  from renewable e nergy  sources;  
+r) ‘State Agency ’ means the agency designated by the concerned State 
+Commission for accreditation of eligibl e entities for grant of Certificates ; 
+s) ‘State Commission ’ means the State Commission referred to in sub-section 
+(64) of Section 2 of the Act; 
+t) ‘State Grid Code’ means the State Grid Code specified by the State 
+Commission under clause (h) of sub -section (1) o f Section 86 of the Act;   
+u) ‘Trading Licence Regulations, 2020’  means the Central Electricity Regulatory 
+Commission (Procedure, Terms and Conditions for grant of trading licence and other 
+related matters) Regulations, 2020, as amended from time to time and a ny re -enactment 
+thereof;  and 
+v) ‘Year ’ means a financial  year. 
+ 
+(2)      Words and expressions used in these regulations and not defined herein but defined in 
+the Act or any other regulations issued by the Commission, shall have the same meaning as 
+assigned to them respectively  in the Act, or such other  regulations  issued  by the Commission.  
+ 
+ 
+ 
+
+4 
+ 3. Central Agency and its Functions  
+(1)  The National Load Despatch Centre shall be the Central Agency for the purpose of 
+these regulations:  
+Provided that the  Commission may de signate  any other agency as the Central 
+Agency after satisfying itself that such agency has the required capability of performing 
+functions as provided under these regulations.  
+ 
+(2)  The functions of the Central Agency shall be to:  
+(i) undertake registra tion of eligible entities,  
+(ii) develop a mechanism for accounting of generation and sale in respect of Certificates;  
+(iii) undertake issuance of Certificates,  
+(iv) maintain and settl e accounts in respect of Certificates,  
+(v) act as repository of trans actions in Certificates,  
+(vi) maintain Registry of Certificates,  
+(vii) perform such other functions incidental to sub-clauses (i) to (v i) of this clause , 
+and 
+ (viii) undertake a ny other function that  may be assigned by the Commission.  
+ 
+4. Eligibility  for Issuance of Certificates  
+(1) Following entities shall be eligible for issuance of Certificates:  
+(a) Renewable energy generating station s, 
+(b) Captive generating station s based on renewable energy sources , 
+(c) Distribution licensee s, and 
+(d) Open access consumer s 
+ 
+(2) A renewable ene rgy generating station shall be eligible for issuance of Certificates, if it 
+meets the following conditions:  
+(a)  the tariff of such renewable energy generating station , for part or full capacity,  has not 
+been either determined or adopted under section 62  or section 63 of the Act  
+respectively , or the  electricity generated is not sold directly or through a n electricity 
+trader or in the Power Exchange, for RPO compliance by an obligated entity : 
+
+5 
+  
+ (b) such renewable energy generating station has not avail ed any (i) waiver of or 
+concessional transmission  charges  or (ii) waiver of or concessional wheeling 
+charges . 
+ 
+(3) A captive generating station based on renewable energy sources  and meeting the 
+conditions as specified under clause (2) of this Regulation in respect  of renewable energy 
+generating station shall be eligible for  issuance of  Certificates : 
+ 
+Provided that the Certificates issued to such captive generating station  to the extent of self -
+consumption,  shall not be eligible for sale.    
+ 
+(4) An obligated entity  being a distribution licensee or an open access consumer,  which 
+purchases electricity from renewable energy sources in excess of the renewable purchase 
+obligation as determined by the concerned State Commission shall be eligible for issuance of 
+Certificat es to the extent of purchase of such excess electricity from renewable energy  sources . 
+ 
+5. The Process es  
+The p rocess involve s (i) accreditation  to the eligible entities for Certificates and (ii) registration  of 
+the eligible entities for Certificates  and (iii) issuance, exchange and redemption of Certificate s, as 
+specified in these regulations.  
+ 
+6. Grant of Accreditation  for Certificates  
+(1) Accreditation  to the eligible entities connected to intra-State transmission system  shall be 
+granted  by the State Agency : 
+Provided that the eligible entities granted accreditation prior to the date of coming into 
+force of these regulations shall be deemed to have been granted accreditation under these 
+regulations till validity of their respective accreditation s. 
+(2) Accreditation  to the eligible entit ies connected to  the inter-State transmission system  shall 
+be granted  by the RLDC  of the region in which such eligible entities  are located, in accordance 
+
+6 
+ with the Procedure for Accreditation  to be issued by the Central  Agency as part o f the Detailed 
+Procedure : 
+Provided that the eligible entities granted accreditation s prior to the  date of coming into 
+force of these regulations  shall be deemed to have been granted accreditation s under these 
+regulations and their accreditation s shall rema in valid till the date of validity of their respective 
+accreditation s. 
+(3) The e ligible  entities that have been granted accreditation s, referred to in clause ( 2) of this 
+Regulation, which have undergone a change in name or change in legal status  after the grant of 
+accreditation , shall inform , along with relevant documents  from the appropriate authority such as 
+Registrar of Companies or National Company Law Tribunal  or any other Court,  to the concerned  
+RLDC  which shall , upon verification of documents , update  such change in its records within 30 
+days from the date of such information  and inform the same to the Central Agency .  
+ 
+(4) Notwithstanding the provision s contained in clauses (1) and (2) of this Regulation, a 
+distribution  licensee or an open access consumer  satisfying the eligibility conditions specified in 
+clause (4) of Regulation  4 of these regulations, shall deemed to have been accredited for grant of 
+registration under these regulations.  
+ 
+7. Revocation  of Accreditation   
+The concerned RLDC, after making an enqu iry and giving notice may revoke , recording reasons 
+for such revocation,  accreditation  granted to an  eligible entity referred to in clause (2) of 
+Regulation  6 of these regulations in case the eligible entity breaches any of the terms and 
+conditions of its accreditation, the breach of which is expressly declared by such accreditation to 
+render it liable for revocation . 
+ 
+8. Grant of Registration  for Certificates  
+(1) An eligible  entity  which has been granted accreditation  or deemed to have been granted 
+accreditation   under these regulations, shall be eligible for  grant of registration  by the Central 
+Agency in accordance with the Procedure for Registration for Certificate to be issued by the 
+Central Agency as part of the Detailed Procedure :  
+
+7 
+  
+Provided that the entiti es granted registration under the REC Regulations, 2010 shall be 
+deemed to have been granted registration under these regulations .    
+ 
+(2) The registration granted in terms of these regulations shall be valid for twenty five years 
+from the date of registra tion: 
+Provided that the registration  granted under the REC Regulations, 2010 and deemed to 
+have been granted registration  under these regulations  shall be valid for a period of  twenty five  
+years from the date of deemed registration .   
+ 
+(3)  The entitie s having been granted registration which have undergone change in name or 
+change in legal status after the grant  of registration , shall inform , along with relevant documents 
+from the appropriate authority such as Registrar of Companies or National Company Law Tribunal  
+or any other Court , to the Central Agency which shall, upon verification of documents update such 
+change in its records  within 30 days from the date of such application .  
+ 
+9. Revocation of Registration  
+The Central Agency, after making an enquiry and giving notice may revoke, recording reasons 
+for such revocation,  registration granted to an eligible entity referred to in clause (1) of Regulation 
+8 of these regulations in case the eligible entity breaches any of the terms and conditions of its 
+registration , the breach of which is expressly declared by such registration to render it liable for 
+revocation . 
+ 
+10. Issuance of Certificates  
+(1) An eligible entity which has been granted registration  or deemed to have been granted 
+registration  may apply for issuanc e of Certificates , to the Central Agency in accordance with the 
+Procedure of Issuance of Certificate to be issued by the Central Agency as part of the Detailed 
+Procedure .   
+ 
+(2) Application for issuance of Certificates shall be made  by an eligible entity being  a 
+renewable energy generating station or a captive generating station based on renewable energy 
+
+8 
+ sources,  to the Central Agency within six months from the corresponding generation by the  eligible 
+entity : 
+ 
+Provided that no Certificate shall be issued in cas e the application is made beyond the 
+period of six months  from the corresponding generation .  
+ 
+(3) Application for issuance of Certificates shall be made  by an eligible entity being a  
+distribution licensee or an open access consumer   within three months from t he end of a financial 
+year, along with a copy of certification from the concerned  State Commission about purchase of 
+electricity from renewable energy sources in excess of the renewable purchase obligation s as 
+determined by the concerned State Commission : 
+ 
+Provided that no Certificate shall be issued in case the application  is made beyond the 
+period of three months from the end of the financial year.   
+ 
+(4) The Central Agency shall, within fifteen days from the date of receipt of complete 
+application for issuanc e of Certificate s from an eligible entit y, issue Certificate s or reject the 
+application  recording  the reason s for such rejection  and intimat e the same to the concerned entity . 
+ 
+(5) The Certificates shall be issued  to the eligible entity being a renewable energ y generating 
+station or a captive generating station based on renewable energy sources, on the basis of the 
+electricity  generated and injected into the grid or deemed to be injected in case of self -consumption 
+by the eligible captive generating station bas ed on renewable energy sources and duly accounted in 
+the Energy Accounting System :  
+ 
+(i) as per the Grid Code or the State Grid Code , as the case may be, or  
+(ii) based on written communication of distribution licensee  to the concerned State  Load 
+Despatch Centre  or Regional Load D espatch Centre with regard to the energy input by the 
+renewable energy generat ing station and captive generating station based on renewable 
+energy sources which are not covered under the existing scheduling and d espatch 
+procedures .  
+ 
+
+9 
+ (6) The entities granted registration or deemed to have been granted registration  under these 
+regulations shall be eligible for issuance of Certificates for the validity period of their registration .   
+11. Exchange  and Redemption of Certificates  
+(1) The Central Ag ency shall maintain a Registry of Certificates . 
+ 
+(2) The Certificates shall be exchanged  through power exchanges or through electricity traders  
+in such periodicity as may be stipulated by the Central  Agency in the Detailed Procedure . 
+ 
+(3) The Power Exchange(s) sha ll seek approval of the Commissi on, as may be  required under 
+the Central Electricity Regulatory Commission (Power Market) Regulations, 2021 , to the  
+respective Bylaws and Rules for e xchange of Certificates in the Power Exchange(s).  
+ 
+(4) Exchange  of Certificates  through electricity  traders  shall be  subject to the following:  
+(a)  The eligible entities  shall inform , in advance , to the Central Agency about the number 
+of Certificates intended to be sold through electricity traders ; 
+(b)  The Central Agency shall block such nu mber of  Certificates in the Registry as 
+informed by the eligible entities in terms of sub -clause (a) of this clause ; 
+(c)  The Certificates blocked under sub -clause (b) of this clause shall not be allowed to be 
+exchanged  through Power Exchange (s); 
+(d)  The electric ity trader s shall intimate to the Central Agency consequent upon sale of the 
+Certificates blocked under sub -clause (b) of this clause ;  
+(e)  The trading margin for exchange  of Certificates  through electricity traders shall be 
+governed by the Trading Licence Regulations, 2020, treating one Certificate representing 
+one Megawatt hour of electricity . 
+ 
+(5) The Certificates once exchanged  through Power Exchange (s) or through electricity traders 
+and used for compliance of RPO  by the obligated entities , shall stand redeeme d.  
+ 
+(6) Upon redemption, the Central Agency shall extinguish the said Certificates from the 
+Registry  and update its records . 
+ 
+
+10 
+ (7) The Certificates issued to captive generating stations based on renewable energy sources to 
+the extent of self -consumption shall stand redeemed on compliance of RPO : 
+Provided that the State Agency shall inform the Central Agency about such redemption of 
+Certificates, upon which the Central Agency shall extinguish such Certificates  and update its 
+records .  
+ 
+12. Denomination of Certificate  
+(1) Each Certificate issued under these regulations shall represent one Megawatt hour of 
+electricity generated from renewable energy source s and injected or deemed to be injected (in case 
+of self-consumption  by eligible captive generating station  based on renewa ble energy sources) into 
+the grid : 
+ 
+Provided that Certificate Multiplier may be determined by the Commission as per clause 
+(2) of this Regulation : 
+ 
+Provided further  that Certificate s shall be issued in multiple of the assigned Certificate 
+Multiplier as per  clause (2) of this Regulation for one Megawatt hour of electricity generated and 
+injected or deemed to be injected into the grid.  
+ 
+(2) The Certificate Multiplier for the period of three years from the date of effect of these 
+regulations or such other period a s may be decided by the Commission, as determined  in 
+Appendix -1 shall be as under:   
+ 
+Renewable Energy Technologies  
+ Certificate Multiplier   
+On-shore Wind and Solar  1 
+Hydro  1.5 
+Municipal Solid Waste (MSW) and  
+non-fossil fuel -based cogeneration  2 
+Bioma ss and Biofuel  2.5 
+ 
+
+11 
+ Provided that the Certificate Multiplier for other renewable energy technolog ies, not 
+covered in the above table , shall be notified  by the Commission on a case-to-case basis based on 
+the principles stipulated in Appendix -1: 
+ 
+ Provided further that the Commission may, from time to time, based on review of the 
+maturity level and cost of various renewable energy technologies, revise the Certificate Multiplier.  
+ 
+(3) Applicable Certificate multiplier as per clause (2) of this Regulation shall be  assigned to 
+the renewable energy generating stations and captive generating stations based on renewable 
+energy sources, commissioned after the date of coming into force of these regulations.  
+ 
+(4) The Certificate Multiplier once assigned to a renewable energy generating station, shall 
+remain valid for a period of fifteen  years from the date of commissioning  of such renewable energy 
+generating station or captive generating station based on renewable energy sources :  
+ 
+Provided that for the period of validity of t heir Registration beyond fifteen years from the 
+date of commissioning of such  renewable energy generating station or captive generating station 
+based on renewable energy sources , such renewable energy generating station  or captive 
+generating station based  on renewable energy sources  shall be issued one Certificate for one 
+Megawatt hour of electricity generated and injected or deemed to be injected into the grid .   
+ 
+13. Pricing  of Certificates  
+(1) The price of Certificate s shall be as discovered in the Power Exchan ge(s) or as mutually 
+agreed between eligible entities and the electricity  traders :   
+ 
+Provided that t he Power Exchange(s) and the electricity traders shall report all transactions 
+with details including but not limited to volume, price, buyers and sellers  to the Central Agency on 
+a monthly basis . 
+(2)  The Commission  may by an order give such directions to the Power Exchange(s) or the 
+electricity traders or the Nodal Agency   as may be considered necessary , on being satisfied that any 
+of the following circums tances exist or are  likely to occur : 
+(a) Abnormal increase or decrease in prices of Certificates;  
+
+12 
+ (b) Sudden volatility in the prices of Certificates;  
+(c) Sudden high  or low  transaction volumes of Certificates on a Power  Exchange . 
+ 
+14. Validity  of Certificate s 
+(1) The Certificates issued shall remain  valid until they are redeemed : 
+ 
+Provided that where an eligible entity has obtained accreditation or registration on the basis 
+of false information or by suppressing material information and the accreditation  or regi stration  of 
+such entity is  revoked at a later date, the Certificates already issued to such entity , but not 
+redeemed , shall stand extinguished  from the date of issue of such Certificates and in respect of 
+Certificates already redeemed, such entity shall d eposit   in the Central Agency,  the amount realized 
+from sale of such Certificates along with the interest at the rate of two  hundred (200) basis points 
+above the  State Bank of India Marginal Cost  of Funds based Lending Rate ( MCLR ) of one year 
+tenor . 
+ 
+15. Fees and Charges  
+The Commission may, based on the proposal from the Central  Agency, determine  the fees and 
+charges payable by the eligible entities for accreditation, registration, issuance of Certificates  and 
+other matters connected therewith.  
+ 
+16. Detailed Proced ure  
+(1) The Central Agency shall issue the Detailed Procedure after stakeholders’ consultation 
+within a period of 3 months of notification of these regulations and submit the same for information 
+to the Commission.  
+(2) The Detailed Procedure shall contain  procedu res including , but not limited to :  
+(a)  Procedure for  accounting of generation in respect of eligible entities as referred in 
+clause (2) of Regulation 3 of these regulations;  
+(b) Procedure  for Accreditation  as referred in clause ( 2) of Regulation 6 of these 
+regulations;  
+(c) Procedure for Registration for Certificate as referred to in clause (1 ) of Regulation 8 of 
+these regulations;  
+
+13 
+ (d) Procedure for Issuance for Certificate as referred to in clause (1) of Regulation 10 of 
+these regulations;  
+(e) Periodicity for exchange of Certificate through power exchange or through electricity 
+traders as referred to in clause ( 2) of Regulation 11 of these regulations;  
+(f) other related and incidental matters.  
+ 
+17. Power to give directions  
+The Commission may , from time to time , issue such practice  directions and orders as considered 
+appropriate for the implementation of these regulations.  
+ 
+18. Power to Relax  
+The Commission may by general or special order, for reasons to be recorded in writing, and after  
+giving an opportunity of hearing to the parties l ikely to be affected , may relax any of the  provisions 
+of these regulations on its own motion or on an application made before it by interested person (s).  
+ 
+19. Repeal and Savings  
+(1) Save as otherwise provided in these regulations, the REC Regulations, 2010 and al l 
+subsequent amendments thereto and Procedures thereof shall stand repealed from the date of 
+coming into force  of these regulations.  
+ 
+(2) Notwithstanding such repeal:  
+(a) anything done or any action taken or purported to have been done or taken or any 
+accreditati on or registration or permission granted or any document or instrument 
+executed or any direction given under the repealed regulations shall, in so far as it is not 
+inconsistent with the provisions of these regulations, be deemed to have been done or 
+taken under the corresponding provisions of these regulations ; 
+(b) the Certificates issued under the REC Regulations, 2010  (except the Non -Solar 
+Certificates issued prior to 1.4.2017)  and not redeemed prior to the date of coming into 
+force of  these regulations shall  remain valid until they are redeemed and shall be 
+eligible for exchange as per these regulations;  
+
+14 
+ (c) the exchange of the Non -Solar Certificates issued prior to 1.4.2017 shall continue to be 
+governed by the Commission’s letter dated 28.5.2018 read with corrig endum dated 
+4.6.2018 in Petition No. 14/SM/2017 till they are redeemed  as per their validity under 
+the REC Regulations 2010 , subject to  any further directions of the Hon’ble Supreme 
+Court in Civil Appeal No.4801 of 2018.  
+(d)  any order or direction  issued or ap proval granted, or any appointment made in 
+pursuance of the repealed regulations shall, if in force at the commencement of these 
+regulations, continue to be in force, and shall have effect as if made, directed or issued 
+under or in pursuance of these regul ations, unless otherwise specifically required 
+under these regulations . 
+ 
+ 
+Sd/-   
+(Harpreet Singh Pruthi)  
+Secretary  
+ 
+***   
+
+15 
+ Appendix -1 
+Principle s for Determination of Certificate Multiplier  
+A) Certificate Multiplier has been determined  based on the tariff rang e of various renewable 
+energy sources, by taking into account the:  
+ Tariff s of renewable energy projects discovered through bidding process under 
+Section 63 of the Act ; 
+ Tariff Order s issued by the Commission for projects based on various Renewable 
+Energy Sources ; 
+ Tariff Order s issued by State Electricity Regulatory Commissions for Renewable 
+Energy Projects;  
+ Renewable Energy Project Specific Tariff s determined by the Appropriate 
+Commission , if any.  
+ 
+B) Based on the above principles, the levelized tariff for r enewable energy technologies 
+estimated and Certificate Multiplier assigned to renewable energy technologies are as 
+follows:  
+Renewable Energy Technologies 
+based on  Tariff Range  
+in Rs/kWh  Certificate 
+Multiplier  
+On-shore Wind and Solar  <=4  1 
+Hydro  4-6 1.5 
+Municipal Solid Waste (MSW) and 
+non-fossil fuel -based cogeneration  6-8 2 
+Biomass and Biofuel  8-10 2.5 
+ 
+ 
+ 

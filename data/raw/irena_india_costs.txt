@@ -1,0 +1,265 @@
+Interactive visualization requires JavaScript
+Related research and data
+Charts
+Absolute annual change in primary energy consumption
+Access to clean fuels for cooking vs. per capita energy use
+Access to electricity vs. GDP per capita
+Annual change in coal energy consumption
+Annual change in fossil fuel consumption
+Annual change in gas consumption
+Annual change in hydropower generation
+Annual change in low-carbon energy generation
+Annual change in nuclear energy generation
+Annual change in oil consumption
+Annual change in primary energy consumption
+Annual change in renewable energy generation
+Annual change in solar and wind energy generation
+Annual change in solar energy generation
+Annual change in wind energy generation
+Annual patents filed for carbon capture and storage technologies
+Annual patents filed for electric vehicle technologies
+Annual patents filed for energy storage technologies
+Annual patents filed for renewable energy technologies
+Annual patents filed in sustainable energy
+Annual percentage change in coal energy consumption
+Annual percentage change in fossil fuel consumption
+Annual percentage change in gas consumption
+Annual percentage change in hydropower generation
+Annual percentage change in low-carbon energy generation
+Annual percentage change in nuclear energy generation
+Annual percentage change in oil consumption
+Annual percentage change in renewable energy generation
+Annual percentage change in solar and wind energy generation
+Annual percentage change in solar energy generation
+Annual percentage change in wind energy generation
+CO₂ emissions per capita vs. fossil fuel consumption per capita
+CO₂ emissions per capita vs. share of electricity generation from renewables
+Changes in energy use vs. changes in GDP
+Changes in energy use vs. changes in GDP per capita
+Coal by end user in the United Kingdom
+Coal energy consumption per capita vs. GDP per capita
+Coal output from opencast and deepmines in the United Kingdom
+Coal output per worker in the United Kingdom
+Coal prices
+Coal productionLong-run series
+Coal productionSince 1981
+Coal production and imports in the United KingdomTonnes
+Coal production per capita
+Coal production per capita over the long-term
+Cobalt production
+Consumption-based energy intensity per dollar
+Consumption-based energy use per person
+Countries with a sustainable consumption and production national action plan
+Crude oil prices
+Crude oil prices
+Crude oil spot prices
+Death rate from indoor air pollution vs. per capita energy use
+Death rates per unit of electricity production
+Direct primary energy consumption from fossil fuels, nuclear, and renewables
+Electric car stocks
+Electricity as a share of primary energy
+Electricity demand
+Electricity generation
+Electricity generation from coal
+Electricity generation from fossil fuels
+Electricity generation from fossil fuels, nuclear and renewables
+Electricity generation from gas
+Electricity generation from low-carbon sources
+Electricity generation from oil
+Electricity generation from renewables
+Electricity generation from solar and wind compared to coal
+Electricity production by sourceLine chart
+Electricity production by sourceAbsolute area chart
+Electricity production from fossil fuels, nuclear and renewables
+Electricity production in the United Kingdom
+Employment in the coal industry in the United Kingdom
+Energy consumption by source
+Energy embedded in traded goods as a share of domestic energy
+Energy imports and exports
+Energy intensityWorld Bank
+Energy intensity
+Energy intensity by sector
+Energy intensity vs. GDP per capita
+Energy use per capita vs. CO₂ emissions per capita
+Energy use per person
+Energy use per person vs. GDP per capita
+Explicit consumption subsidies for fossil fuels
+Fossil fuel consumptionBy type
+Fossil fuel consumptionBy country
+Fossil fuel consumption per capita
+Fossil fuel consumption per capita by sourceStacked area chart
+Fossil fuel consumption per capita by sourceLine chart
+Fossil fuel price index
+Fossil fuel production over the long-term
+Fossil fuel production per capita
+GDP per capita vs. energy use
+Gas consumption
+Gas consumption by region
+Gas production
+Gas production per capita
+Gas reserves
+Global aviation demand, energy efficiency and CO₂ emissions
+Global crude oil price vs. oil consumption
+Global direct primary energy consumption
+Global electricity use for air conditioning
+Global fossil fuel consumption
+Global hydropower consumption
+Global installed renewable energy capacity by technology
+Global primary energy consumption by sourceLine chart
+Global primary energy consumption by sourceStacked area chart
+Graphite production
+How have things changed?
+Hubbert's peak prediction vs. actual oil production in the United States
+Hydropower generation
+Hydropower generation by region
+Hypothetical number of deaths from energy production
+Installed geothermal energy capacity
+Installed solar energy capacity
+Installed wind energy capacity
+Investment in renewable energy, by technology
+Kaya identity: drivers of CO₂ emissions
+Lifecycle carbon intensity of electricity
+Lithium production
+Lithium-ion battery cell prices by chemistry
+Long-term energy transitions
+Low-carbon electricity generation per capita
+Low-carbon energy consumption
+Mining requirements of electricity sources, including gas
+Modern renewable electricity generation by source
+Natural gas prices
+Natural gas production by region
+Net electricity imports
+Net electricity imports as a share of electricity demand
+Net energy embedded in traded goods
+Nuclear power generation
+Number of fully battery-electric and plug-in hybrid cars sold
+Number of new cars sold, by type
+Number of new electric cars sold
+Number of people with and without electricity access
+Number of people without access to electricityBy world region
+Number of people without access to electricityBy country
+Oil consumption
+Oil consumption by region
+Oil production
+Oil production by region
+Oil production per capita
+Oil rents as a share of GDP
+Oil reserves
+People without clean fuels for cooking, by world region
+Per capita CO₂ emissions by source
+Per capita CO₂ emissions vs. per capita energy consumption
+Per capita consumption of low-carbon energy
+Per capita consumption of low-carbon energy vs. GDP per capita
+Per capita electricity demand
+Per capita electricity generation
+Per capita electricity generation by source
+Per capita electricity generation from coal
+Per capita electricity generation from fossil fuels
+Per capita electricity generation from fossil fuels, nuclear and renewables
+Per capita electricity generation from gas
+Per capita electricity generation from hydropower
+Per capita electricity generation from nuclear
+Per capita electricity generation from oil
+Per capita electricity generation from renewables
+Per capita electricity generation from solar
+Per capita electricity generation from solar and wind
+Per capita electricity generation from wind
+Per capita electricity generation vs. GDP per capita
+Per capita energy consumption from coal
+Per capita energy consumption from hydropower
+Per capita energy consumption from nuclear
+Per capita energy consumption from renewables
+Per capita energy consumption from solar
+Per capita energy consumption from solar and wind
+Per capita energy consumption from wind
+Per capita energy from fossil fuels, nuclear and renewables
+Per capita fossil energy consumption vs. GDP per capita
+Per capita gas consumption
+Per capita oil consumption
+Per capita primary energy consumption by source
+Power outages in firms in a typical month
+Prices of  key materials for the energy transition
+Primary direct energy consumption by source
+Primary energy consumption
+Primary energy consumption by sourceOver time
+Primary energy consumption by sourceBy country
+Primary energy consumption by world region
+Primary energy consumption from fossil fuels, nuclear and renewables
+Primary energy consumption from hydropower
+Primary energy consumption from nuclear
+Primary energy consumption from renewables
+Primary energy consumption from solar
+Primary energy consumption from solar and wind
+Primary energy consumption from wind
+Production vs. consumption-based carbon intensity of energy
+Production- vs. consumption-based energy use per person
+Production-based vs. consumption-based energy use
+Renewable and nuclear energy: direct vs. substituted energy
+Renewable electricity generationStacked area chart
+Renewable energy consumption
+Renewable energy generationLine chart
+Renewable energy investment
+Share of cars currently in use that are electric
+Share of direct primary energy consumption by source
+Share of electricity generated by bioenergy
+Share of electricity generated by low-carbon sources
+Share of electricity generation from fossil fuels, renewables and nuclear
+Share of electricity production by sourceIndividual sources
+Share of electricity production by sourceFaceted
+Share of electricity production from coal
+Share of electricity production from fossil fuels
+Share of electricity production from gas
+Share of electricity production from hydropower
+Share of electricity production from nuclear
+Share of electricity production from oil
+Share of electricity production from renewable sources
+Share of electricity production from renewables
+Share of electricity production from solar
+Share of electricity production from solar and wind
+Share of electricity production from wind
+Share of energy consumption by source
+Share of final energy use that comes from renewable sources
+Share of global primary energy consumption by source
+Share of new cars sold that are battery-electric and plug-in hybrid
+Share of new cars sold that are electric
+Share of new electric cars that are fully battery-electric
+Share of primary energy consumption from coal
+Share of primary energy consumption from fossil fuels
+Share of primary energy consumption from gas
+Share of primary energy consumption from hydroelectric power
+Share of primary energy consumption from low-carbon sources
+Share of primary energy consumption from nuclear
+Share of primary energy consumption from oil
+Share of primary energy consumption from renewable sources
+Share of primary energy consumption from solar
+Share of primary energy consumption from solar and wind
+Share of primary energy consumption from wind
+Share of primary energy consumption that comes from nuclear and renewables
+Share of primary energy that is low-carbon vs. GDP per capita
+Share of rural vs. urban population with electricity access
+Share of schools with access to electricity
+Share of the population with access to basic services
+Share of the population with access to electricity
+Share of the workforce employed in the coal industry, United Kingdom
+Share of total energy used in agriculture and forestry
+Share with access to electricity vs. per capita energy consumption
+Solar (photovoltaic) panels cumulative capacity
+Solar and wind power generation
+Solar energy generation by region
+Solar energy generation vs. capacity
+Solar photovoltaic module prices vs. cumulative capacity
+Solar photovoltaic panel prices
+Solar power generation
+The cost of 66 different technologies over time
+The long-term energy transition in Europe
+Thermal efficiency factor applied to non-fossil energy sources to convert them to primary energy equivalents
+When will countries phase out coal power?
+Wind energy generation by region
+Wind energy generation vs. installed capacity
+Wind power generation
+Year-to-year change in primary energy consumption by source
+Year-to-year change in primary energy consumption from fossil fuels vs. low-carbon energy
+Year-to-year percentage change in primary energy consumption
+Years of fossil fuel reserves left
+Our World in Data is free and accessible for everyone.
+Help us do this work by making a donation.

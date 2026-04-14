@@ -1,0 +1,207 @@
+ 
+ 
+ 
+GOVERNMENT OF INDIA  
+CENTRAL ELECTRICITY AUTHORITY                    
+(MINISTRY OF POWER)  
+Sewa Bhawan (North Wing), Room No. 62 2, 6th Floor,  
+R. K. Puram, New Delhi -110066  
+Tel. Fax -011-26103246 , email: celegal -cea@gov.in  
+ Website:  www.cea.nic.in  
+ 
+PUBLIC  NOTICE  
+ 
+    In accordance with the Section 177 of the Electricity Act, 2003, 
+the Central Electricity Authority (CEA) , proposes  to notify  the draft  
+Central Electricity Authority (Flexible operation of thermal power 
+plants) Regulations, 2022 .  The proposed draft regulations  are available 
+on the CEA Website www.cea.nic.in  for inviting public comments . The 
+Regulations can also be inspected in the office of Chief Engineer  (Legal) , 
+Sewa Bhawan (North Wing), Room No. 622, 6t h Floor, R. K. Puram, New 
+Delhi -110066 on any working day till 26th August , 2022 between 1100 
+hrs to 1600 hr s.   
+ 
+2.          All the Stakeholders including the public are requested to send 
+their comments on the draft regulations to Chief Engineer (Legal),  Sewa 
+Bhawan (North Wing), Room No. 622, 6th Floor, R. K. Puram, New 
+Delhi -110066  by post or through e -mail (celegal -cea@gov.in ) latest by  
+26th August , 2022 . 
+ 
+ 
+(Rakesh Goyal  ) 
+Secretary, CEA  
+ 
+ 
+
+[To be published in the Gazette of India, Extraordinary, in Part III, Section 4]
+Government of India
+Ministry of Power
+Central Electricity Authority
+New Delhi,                        , 2022
+NOTIFICATION
+File  No.  CEA-TH-17-13/4/2022-TETD  Division  -  In  exercise  of  the  powers
+conferred by sub-section (2)(g) of Section 177 of the Electricity Act 2003, the
+Central Electricity Authority hereby makes the following Regulations namely:
+1.Short Title and Commencement- (1)These Regulations may be called
+the  Central  Electricity  Authority  ( Flexible  operation  of  thermal  power  plants)
+Regulations, 2022.
+(2)They shall come into force on the date of their publication in the Official
+Gazette.
+2.Definitions- (1)In  these  Regulations,  unless  the  context  otherwise
+requires, 
+(a)“Act” means the Electricity Act, 2003;
+(b)“Authority” means the Central Electricity Authority established under sub-
+section (2) of Section 70 of the Act;
+(c) “Base  load  operation”  means  operation  at  maximum  continuous  rating
+(MCR) or its high fraction;
+(d)“Boiler Maximum Continuous Rating (BMCR)” means the maximum steam
+output,  the  steam  generator  (boiler)  can  deliver  continuously  at  rated
+parameters;
+(e)“Cold start”, in relation to steam turbine, means start up after a shut down
+period exceeding 72 hours (turbine metal temperatures below approximately
+40% of their full load values);
+(f)“Control load”, in relation to coal or lignite based thermal generating units,
+means  the  lowest  load  at  which  the  rated  steam  temperature  can  be
+maintained under auto control system;
+(g)“Flexible operation” means the ability  of thermal plant to adjust the net
+power fed into the grid as per the dispatch schedules where must run power
+plants like renewable energy sources are taking part in meeting grid load
+demand.80351/2022/Legal4
+
+(h)“Hot start”, in relation to steam turbine, means start up after a shut down
+period of less than 10 hours (turbine metal temperatures approximately 80%
+of their full load values);
+(i)“Maximum Continuous Rating (MCR)”,-in relation to coal or lignite based
+thermal  generating  units,  means  maximum  continuous  output  at  the
+generator terminals expressed in kilo volt ampere (kVA)  (net of any external
+excitation  power)  as  guaranteed  by  the  manufacturer  at  the  rated
+parameters; 
+(j)“Minimum Power Levels (MPL)” means the minimum output power at the
+generator terminals that the power plant can sustain continuously without oil
+support. It is expressed as percentage of maximum rated capacity. 
+(k)“Must run” status for a power plant means generation of power from such
+power plant should not be curtailed for factors other than on account of grid
+safety or safety of equipment or personnel.
+(l)“Ramp rate” means the measurement of how quickly a power plant can
+change its output. It is calculated as the ratio of change in power output to
+time taken for such change in power output. It is expressed as percentage
+(of unit rating) per minute. 
+(m)“Retrofit”  means  modernization  or  upgradation  of  power  plant
+components or subsystems.
+(n)“Shut down” means total stoppage of power plant and production activities
+by cutting off in- coming power supply to the power plant.
+(o)“Startup  /  shutdown  time”,  in  relation  to  power  plants  means  the  time
+required  to  move  from  nonoperational  state  (cold,  warm,  hot  state)  to
+operational state and vice versa. It is expressed in minutes.
+(p)“Sub-Critical Unit”, in relation to coal or lignite based thermal generating unit,
+means  a  unit  designed  for  main  steam  pressure  less  than  the  critical
+pressure (225.56 kg/ cm2) of water;
+(q)“Super-Critical Unit”, in relation to coal or lignite based thermal generating
+unit, means a unit designed for main steam pressure more than the critical
+pressure (225.56 kg/cm2) of water;
+(r)“Thermal Power Plants (TPP) ”  means the ‘generating station’ as defined in
+the Act  for generating electricity using fossil fuels such as coal, lignite, gas,
+liquid  fuel  or  combination  of  these  as  its  primary  source  of  energy  to
+generate electric power;
+(s)“Ultra  Super-Critical  Unit”,  in  relation  to  coal  or  lignite  based  thermal
+generating  unit  means  a  supercritical  unit  with  steam  temperature  of
+600/6000C or higher at turbine inlet;80351/2022/Legal5
+
+(t)“Unit”,  in  relation  to  a  coal  or  lignite  based  thermal  generating  station,
+means steam generator with interconnected steam turbine-generator and
+auxiliaries, operated as one single set or system to generate electric power;
+(u)“Warm start”, in relation to steam turbine, means start up after a shut down
+period between 10 hours and 72 hours (turbine metal temperatures between
+approximately 40% and 80% of their full load values ).
+(2)words and expressions used but not defined in these Regulations shall
+have the meaning assigned to them in the Act.
+3.Applicability - These Regulations shall apply to all coal and lignite based
+thermal power plants and load despatch centers.
+4.General Requirements  - (1)   The Thermal Power Plants shall be suitably 
+designed for full range of ambient and other environmental conditions 
+prevailing at site. 
+(2)The various parts or components or assemblies of equipment and
+systems shall be of proven materials with established physical and chemical
+properties appropriate to the service as intended.
+(3)All equipment and systems installed shall comply with the provisions
+of statutes, Regulations and safety codes, as applicable.
+(4)(1)  The  Thermal  Power  Plants  shall  be  designed  to  comply  with
+requirements stipulated in
+(a)Central Electricity Authority (Technical Standards for Connectivity
+to the Grid) Regulations, 2007 as amended time to time;
+(b)Indian  Electricity  Grid  Code  issued  by  Central  Electricity
+Regulatory Commission (CERC);
+(c)Applicable  State  Grid  Code  issued  by  appropriate  Regulatory
+Commission;
+(d)Central Electricity Authority (Technical Standards for Construction
+of  Electrical  Plants  and  Electric  Lines)  Regulations,  2010  as
+amended time to time;
+(e)Central  Electricity  Authority.  (Measures  relating  to  Safety  and
+Electricity Supply), Regulations, 2010 as amended time to time;
+(f)Central  Electricity  Authority  (Safety  Requirements  for
+Construction, Operation and Maintenance of Electrical Plants and
+Electric Lines) Regulations, 2011 and;
+(g)Central Electricity Authority (Grid Standards) Regulations, 2010.
+(2) The conditions stipulated in these Regulations shall prevail upon in
+case of contradictions. 
+5.The flexible operation of a  power plant shall refer to the characteristics
+indicated in Fig. 1.80351/2022/Legal6
+
+Fig 1: Characteristcs  o Flexibility
+6.Suitability of units for flexible operation: 
+i.The  units  throughout  their  service  life  shall  be  considered  for  flexible
+operation.
+ii.The suitability of units for start/stops and deep load following (Ramps) shall
+be assessed beforehand.
+iii.The condition assessment of existing plant systems and its upgradation, if
+required, to accommodate operating requirements arising out of flexible
+operation shall be addressed beforehand.
+7. Flexible Operation of the Thermal Power Plants (TPP): 
+i.All TPPs shall be capable of providing the required output as per the
+schedule for generation finalized by appropriate Load Despatch Centers.
+Based on the availability of must run stations, plants or units shall follow
+the variable load requirements.
+ii.The appropriate Load Despatch Centers shall schedule all coal based
+thermal power plants, upto the MPL of 55%, to support the operation of
+must run stations.
+iii.The appropriate Load Despatch Centers may schedule all coal based
+thermal power plants, upto the MPL of 40%, to support the operation of
+must run stations, subject to the provisions mentioned at Sub-clause (v)
+of this Clause.
+iv.       The minimum rate of loading or unloading for coal based thermal power
+plants shall be 3% per minute above the MPL.
+Provided that for supercritical and ultra-super-critical units, minimum rate
+of loading or unloading shall be 5% per minute above the MPL.
+v.The thermal power plants shall implement the necessary modifications, if
+any, to achieve the requirements as specified in Sub-Clause (ii), (iii) and
+(iv) of this Clause to generate flexible power according to schedules
+finalized by appropriate LDCs.80351/2022/Legal7
+
+Provided  that  the  implementation  of  Sub-Clause  (iii)  and  (iv)  of  this
+Clause would be completed by all thermal power units within three years
+from the date of notification of these Regulations, subject to the technical
+feasibility studies to be done in consultation with concerned OEMs or
+qualified  consultants  with  regard  to  the  requirements  mentioned  at
+Clause 6 and Clause 8 of these regulations.
+Provided  further  that  the  implementation  of  Sub-Clause  (ii)  shall  be
+implemented by all thermal power units within one year of the notification
+of these Regulations.
+8.Process for implementing Flexible Operation of the Thermal Power Plants:
+Measures to lower minimum limits of power output, increase the ramp
+rates  and  optimize  the  start-up  of  the  power  plants  should  be
+implemented based on technical feasibility studies involving assessment
+of  the  following  factors  in  consultation  with  the  concerned  Original
+Equipment Manufacturers/ Qualified Consultants: 
+a.Rated Capacity
+b.Minimum load Design rating with no oil support 
+c.Design Ramp rate. 
+d.Influence of low load operation on components and  systems.
+e.Technical boundary conditions for flexible operation
+f.Combustion  system  optimization,  co-ordination  of  mill  and
+burner systems.
+TPPs may decide adoption of suitable modifications in consultation
+with concerned OEMs/ qualified consultants.
+9.Any deviation from the limits prescribed under these Regulations shall be
+brought before the Authority on case to case basis by the thermal power plants for
+exemption, if any.
+************80351/2022/Legal8
