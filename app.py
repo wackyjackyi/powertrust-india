@@ -197,15 +197,15 @@ Provide detailed accurate answer in markdown format:"""
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="PowerTrust Solar Intelligence",
-    page_icon="🌞",
+    page_title="SolarIQ — India Solar Intelligence",
+    page_icon="⚡",
     layout="wide"
 )
 
 with st.spinner("Loading RAG pipeline..."):
     embedder, collection, groq_client = load_rag()
 
-st.sidebar.title("🌞 PowerTrust")
+st.sidebar.title("⚡ SolarIQ")
 st.sidebar.markdown("**India Solar Intelligence**")
 st.sidebar.markdown("---")
 
@@ -254,7 +254,7 @@ def get_visual_data():
 # ============================================
 if page == "📊 Visual Report":
     vd = get_visual_data()
-    st.title("🌞 India Solar Intelligence Report")
+    st.title("⚡ SolarIQ — India Solar Intelligence Report")
     st.markdown("**Rajasthan • Gujarat • Karnataka**")
     st.caption("Data sourced from CERC, RERC, GERC, KERC, MNRE, CEA — ingested and extracted automatically.")
     st.markdown("---")

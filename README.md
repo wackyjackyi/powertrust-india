@@ -1,8 +1,8 @@
-# PowerTrust — India Solar Intelligence
+# SolarIQ — India Solar Intelligence
 
 **IE 7374 Generative AI Hackathon** | Open-Data Intelligence for Distributed Solar Development
 
-A 5-layer RAG pipeline that ingests public regulatory documents, embeds them into a vector store, and serves a Streamlit dashboard with grounded AI chat, feasibility scoring, and unknown risk discovery — for solar development across **Rajasthan, Gujarat, and Karnataka**.
+SolarIQ is a 5-layer RAG pipeline that ingests public regulatory documents, embeds them into a vector store, and serves a Streamlit dashboard with grounded AI chat, feasibility scoring, and unknown risk discovery — for solar development across **Rajasthan, Gujarat, and Karnataka**.
 
 ---
 
