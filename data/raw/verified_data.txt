@@ -1,0 +1,64 @@
+VERIFIED SOLAR DATA FOR INDIA - POWERTRUST INTELLIGENCE SYSTEM
+Source: CEA Installed Capacity Report (As on 30.09.2025), RERC/GERC/KERC Tariff Orders 2025, IRENA 2023
+
+STATE WISE INSTALLED RENEWABLE ENERGY CAPACITY:
+Rajasthan Total Renewable Energy Capacity = 39995.99 MW
+Rajasthan Hydro Capacity = 2105.67 MW
+Rajasthan Grand Total Installed Capacity = 58027.30 MW
+
+Gujarat Total Renewable Energy Capacity = 38029.77 MW
+Gujarat Hydro Capacity = 864.04 MW
+Gujarat Grand Total Installed Capacity = 64173.19 MW
+
+Karnataka Total Renewable Energy Capacity = 21810.51 MW
+Karnataka Hydro Capacity = 3631.60 MW
+Karnataka Grand Total Installed Capacity = 36955.06 MW
+
+SOLAR TARIFF RATES:
+Rajasthan Solar Tariff existing sources = Rs. 3.34 per kWh
+Rajasthan Solar Tariff new sources = Rs. 2.85 per kWh
+Rajasthan Solar auction price 2024 = Rs. 2.61 per kWh
+Gujarat Solar Rooftop Tariff = Rs. 2.32 per kWh
+Gujarat Solar Utility Scale Tariff = Rs. 6.77 to 10.03 per kWh
+Gujarat Wind Tariff = Rs. 3.27 to 4.76 per kWh
+
+RAJASTHAN RPO TARGETS FY 2025-26:
+Rajasthan Wind RPO = 3.36%
+Rajasthan Hydro Purchase Obligation HPO = 1.48%
+Rajasthan Other RPO = 28.17%
+Rajasthan Total RPO = 33.01%
+
+GUJARAT RPO TARGETS:
+Gujarat RPO FY 2025-26 = 33.01%
+Gujarat RPO FY 2026-27 = 35.95%
+Gujarat RPO FY 2027-28 = 38.81%
+Gujarat RPO FY 2028-29 = 41.37%
+Gujarat RPO FY 2029-30 = 43.33%
+
+KARNATAKA RPO COMPLIANCE:
+Karnataka Solar RPO Complied = 12.46%
+Karnataka Total Solar Energy Purchased = 1363.58 MU
+
+SOLAR CAPEX INDIA:
+Solar CAPEX 2021-22 = Rs. 4.5 crore per MW
+Solar CAPEX projected 2029-30 = Rs. 4.1 crore per MW
+
+GLOBAL SOLAR COSTS (IRENA 2023):
+Global Solar LCOE 2023 = USD 0.044 per kWh
+Global Solar LCOE 2010 = USD 0.460 per kWh
+Global Solar CAPEX 2023 = USD 758 per kW
+Global Solar CAPEX 2022 = USD 908 per kW
+Solar cost reduction since 2010 = 90%
+
+ROOFTOP SOLAR SUBSIDIES (MNRE PM Surya Ghar):
+Subsidy for first 2 kWp = Rs. 30000 per kWp
+Subsidy for additional kWp = Rs. 18000 per kWp
+Benchmark cost per kW = Rs. 50000
+Total scheme outlay = Rs. 75021 crore
+
+ALL INDIA RENEWABLE ENERGY:
+All India Total Renewable Energy = 197201.44 MW
+All India Solar Power = 127332.27 MW
+All India Wind Power = 53123.80 MW
+All India Small Hydro = 5133.61 MW
+All India Bio Power = 10757.31 MW

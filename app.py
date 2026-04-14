@@ -29,6 +29,7 @@ USEFUL_FILES = [
     "cerc_rpo_regulations.txt",
     "mnre_pm_surya_ghar.txt",
     "jmk_solar_report_2025.txt",
+    "verified_data.txt",
     "renewable_power_generation_full.txt",
 ]
 
