@@ -8,7 +8,7 @@ A 5-layer RAG pipeline that ingests public regulatory documents, embeds them int
 
 ## Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://powertrust-india.streamlit.app/)
 
 ---
 
