@@ -458,7 +458,7 @@ elif page == "📈 Insights & Scoring":
 elif page == "🌍 Scalability":
     st.title("🌍 Adding New Countries")
     st.markdown("---")
-    st.subheader("How PowerTrust Scales")
+    st.subheader("How SolarIQ Scales")
     st.markdown("""
     Adding a new country requires **no code changes** — just data:
     
